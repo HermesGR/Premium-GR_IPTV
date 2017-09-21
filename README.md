@@ -1,6 +1,4 @@
-# Premium-GR_IPTV
 
-#EXTM3U
 
 #EXTINF:-1,GR:4E Star
 http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9388.ts
@@ -10,16 +8,22 @@ http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9389.ts
 
 #EXTINF:-1,GR:Acheloos TV
 http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9387.ts
+
 #EXTINF:-1,GR:ACTION 24
 http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9386.ts
+
 #EXTINF:-1,GR:Alpha Cyprus
 http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9384.ts
+
 #EXTINF:-1,GR:Alpha HD
 http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9385.ts
+
 #EXTINF:-1,GR:Animal Planet
 http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9320.ts
+
 #EXTINF:-1,GR:Animal Planet HD
 http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9321.ts
+
 #EXTINF:-1,GR:ANT1 HD
 http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9383.ts
 #EXTINF:-1,GR:ART Channel

@@ -1,4 +1,7 @@
-#EXTINF:-1,GR:Nat Geo HD    
+#EXTM3U
+
+
+#EXTINF:-1,GR:Nat Geo HD
 http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9324.ts
 
 #EXTINF:-1,GR:Nat Geo Wild

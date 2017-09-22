@@ -1,359 +1,172 @@
 #EXTM3U
 
-
-#EXTINF:-1,GR:Nat Geo HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9324.ts
-
-#EXTINF:-1,GR:Nat Geo Wild
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9322.ts
-
-#EXTINF:-1,GR:Nat Geo Wild HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9323.ts
-
-#EXTINF:-1,GR:Discovery Channel
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9330.ts
-
-#EXTINF:-1,GR:Discovery History
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9325.ts
-
-#EXTINF:-1,GR:Discovery ID
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9328.ts
-
-#EXTINF:-1,GR:Discovery IDX
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9327.ts
-
-#EXTINF:-1,GR:Discovery Science
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9326.ts
-
-#EXTINF:-1,GR:Discovery ShowCase HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9329.ts
-
-#EXTINF:-1,GR:Travel Channel HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9316.ts
-
-#EXTINF:-1,GR:Viasat History
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9317.ts
-
-#EXTINF:-1,GR:Animal Planet
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9320.ts
-
-#EXTINF:-1,GR:Animal Planet HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9321.ts
-
-#EXTINF:-1,GR:History HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9319.ts
-
-#EXTINF:-1,GR:Cosmote Sport 1 HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9418.ts
-
-#EXTINF:-1,GR:Cosmote Sport 2 HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9417.ts
-
-#EXTINF:-1,GR:Cosmote Sport 3 HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9416.ts
-
-#EXTINF:-1,GR:Cosmote Sport 4 HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9415.ts
-
-#EXTINF:-1,GR:Cosmote Sport 5 HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9414.ts
-
-#EXTINF:-1,GR:Cosmote Sport 6 HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9413.ts
-
-#EXTINF:-1,GR:Cosmote Sport 7 HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9412.ts
-
-#EXTINF:-1,GR:Cosmote Sport 8 HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9411.ts
-
-#EXTINF:-1,GR:EuroSport 1
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9410.ts
-
-#EXTINF:-1,GR:Fishing Ellinika
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9314.ts
-
-#EXTINF:-1,GR:Hunting Ellinika
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9313.ts
-
-#EXTINF:-1,GR:TileSport TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9409.ts
-
-#EXTINF:-1,GR:Village
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9333.ts
-
-#EXTINF:-1,GR:Village HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9334.ts
-
-#EXTINF:-1,GR:Sundance
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9335.ts
-
-#EXTINF:-1,GR:Sundance HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9336.ts
-
-#EXTINF:-1,GR:TLC
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9315.ts
-
-#EXTINF:-1,GR:Best Movies 1
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9351.ts
-
-#EXTINF:-1,GR:Best Movies 2
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9350.ts
-
-#EXTINF:-1,GR:Best Movies 3
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9349.ts
-
-#EXTINF:-1,GR:Best Movies 4
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9348.ts
-
-#EXTINF:-1,GR:Best Movies 5
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9347.ts
-
-#EXTINF:-1,GR:Best Movies 6
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9346.ts
-
-#EXTINF:-1,GR:Capital Cyprus
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9381.ts
-
-#EXTINF:-1,GR:CHANNEL 9
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9380.ts
-
-#EXTINF:-1,GR:Cinema Greek 1
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9353.ts
-
-#EXTINF:-1,GR:Cinema Greek 2
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9352.ts
-
-#EXTINF:-1,GR:Greek Cinema 80s 1
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9345.ts
-
-#EXTINF:-1,GR:Greek Cinema 80s 2
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9344.ts
-
-#EXTINF:-1,GR:Greek Cinema 80s 3
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9343.ts
-
-#EXTINF:-1,GR:Greek Mix
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9342.ts
-
-#EXTINF:-1,GR:Greek Old Movies 1
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9341.ts
-
-#EXTINF:-1,GR:Greek Old Movies 2
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9340.ts
-
-#EXTINF:-1,GR:Greek Old Movies 3
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9339.ts
-
-#EXTINF:-1,GR:Greek Series 1
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9338.ts
-
-#EXTINF:-1,GR:Greek Series 2
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9337.ts
-
-#EXTINF:-1,GR:Nickelodeon
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9312.ts
-
-#EXTINF:-1,GR:Disney Channel
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9311.ts
-
-#EXTINF:-1,GR:Disney Junior
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9310.ts
-
-#EXTINF:-1,GR:Disney XD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9309.ts
-
-#EXTINF:-1,GR:DS
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9378.ts
-
-#EXTINF:-1,GR:Baby TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9307.ts
-
-#EXTINF:-1,GR:SMILE
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9359.ts
-
-#EXTINF:-1,GR:Zouzounia
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9308.ts
-
-#EXTINF:-1,GR:Kids 1
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9305.ts
-
-#EXTINF:-1,GR:Kids 10
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9297.ts
-
-#EXTINF:-1,GR:Kids 2
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9304.ts
-
-#EXTINF:-1,GR:Kids 3
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9303.ts
-
-#EXTINF:-1,GR:Kids 4
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9302.ts
-
-#EXTINF:-1,GR:Kids 5
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9301.ts
-
-#EXTINF:-1,GR:Kids 6
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9300.ts
-
-#EXTINF:-1,GR:Kids 7
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9299.ts
-
-#EXTINF:-1,GR:Kids 9
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9298.ts
-
-#EXTINF:-1,GR:ERT HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9408.ts
-
-#EXTINF:-1,GR:ERT 1
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9407.ts
-
-#EXTINF:-1,GR:ERT 2
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9406.ts
-
-#EXTINF:-1,GR:ERT 3
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9405.ts
-
-#EXTINF:-1,GR:ERT Web TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9404.ts
-
-#EXTINF:-1,GR:ANT1 HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9383.ts
-
-#EXTINF:-1,GR:Alpha HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9385.ts
-
-#EXTINF:-1,GR:SKAI
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9360.ts
-
-#EXTINF:-1,GR:Skai HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9361.ts
-
-#EXTINF:-1,GR:STAR
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9392.ts
-
-#EXTINF:-1,GR:Star HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9393.ts
-
-#EXTINF:-1,GR:ART Channel
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9382.ts
-
-#EXTINF:-1,GR:E!
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9331.ts
-
-#EXTINF:-1,GR:MAKEDONIA TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9400.ts
-
-#EXTINF:-1,GR:Makedonia TV HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9401.ts
-
-#EXTINF:-1,GR:Mega
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9399.ts
-
-#EXTINF:-1,GR:Epirus TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9332.ts
-
-#EXTINF:-1,GR:EPSILON
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9402.ts
-
-#EXTINF:-1,GR:Epsilon HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9403.ts
-
-#EXTINF:-1,GR:EuroNews
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9306.ts
-
-#EXTINF:-1,GR:Creta Web TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9379.ts
-
-#EXTINF:-1,GR:4E Star
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9388.ts
-
-#EXTINF:-1,GR:AB Channel
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9389.ts
-
-#EXTINF:-1,GR:Acheloos TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9387.ts
-
-#EXTINF:-1,GR:ACTION 24
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9386.ts
-
-#EXTINF:-1,GR:Alpha Cyprus
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9384.ts
-
-#EXTINF:-1,GR:EXTRA
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9377.ts
-
-#EXTINF:-1,GR:Ioannina TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9375.ts
-
-#EXTINF:-1,GR:KONTRA TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9376.ts
-
-#EXTINF:-1,GR:Krhth Tv
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9374.ts
-
-#EXTINF:-1,GR:Kriti TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9373.ts
-
-#EXTINF:-1,GR:MAD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9372.ts
-
-#EXTINF:-1,GR:MAD TV Cyprus
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9371.ts
-
-#EXTINF:-1,GR:MegaOne Cyprus
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9398.ts
-
-#EXTINF:-1,GR:MESSINIA TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9370.ts
-
-#EXTINF:-1,GR:Nea TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9397.ts
-
-#EXTINF:-1,GR:Net TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9396.ts
-
-#EXTINF:-1,GR:Nova
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9394.ts
-
-#EXTINF:-1,GR:Omega TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9395.ts
-
-#EXTINF:-1,GR:OTE History
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9318.ts
-
-#EXTINF:-1,GR:Plus Cyprus
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9366.ts
-
-#EXTINF:-1,GR:RIK 1 Cyprus
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9368.ts
-
-#EXTINF:-1,GR:RIK 2 Cyprus
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9367.ts
-
-#EXTINF:-1,GR:RIK SAT
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9369.ts
-
-#EXTINF:-1,GR:RISE
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9365.ts
-
-#EXTINF:-1,GR:Samiaki
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9364.ts
-
-#EXTINF:-1,GR:SBC
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9363.ts
-
-#EXTINF:-1,GR:Sigma
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9362.ts
-
-#EXTINF:-1,GR:Toronto TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9358.ts
-
-#EXTINF:-1,GR:Vouli
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9391.ts
-
-#EXTINF:-1,GR:Zougla
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9390.ts
-
+#EXTINF:-1,VIP-GR-1000
+http://51.255.77.23:7777/live/972548/113543/8384.ts
+#EXTINF:-1,VIP-GR-4E
+http://51.255.77.23:7777/live/972548/113543/8321.ts
+#EXTINF:-1,VIP-GR-4E-Star
+http://51.255.77.23:7777/live/972548/113543/8322.ts
+#EXTINF:-1,VIP-GR-AB-Channel
+http://51.255.77.23:7777/live/972548/113543/8323.ts
+#EXTINF:-1,VIP-GR-ACTION-24
+http://51.255.77.23:7777/live/972548/113543/8324.ts
+#EXTINF:-1,VIP-GR-AIGAIO
+http://51.255.77.23:7777/live/972548/113543/8325.ts
+#EXTINF:-1,VIP-GR-Alpha
+http://51.255.77.23:7777/live/972548/113543/8326.ts
+#EXTINF:-1,VIP-GR-ANT1
+http://51.255.77.23:7777/live/972548/113543/8327.ts
+#EXTINF:-1,VIP-GR-Ant1-HD
+http://51.255.77.23:7777/live/972548/113543/8328.ts
+#EXTINF:-1,VIP-GR-Apeiro
+http://51.255.77.23:7777/live/972548/113543/8329.ts
+#EXTINF:-1,VIP-GR-APT
+http://51.255.77.23:7777/live/972548/113543/8330.ts
+#EXTINF:-1,VIP-GR-Art
+http://51.255.77.23:7777/live/972548/113543/8331.ts
+#EXTINF:-1,VIP-GR-Astra
+http://51.255.77.23:7777/live/972548/113543/8332.ts
+#EXTINF:-1,VIP-GR-Axeloos
+http://51.255.77.23:7777/live/972548/113543/8333.ts
+#EXTINF:-1,VIP-GR-BLUE-SKY
+http://51.255.77.23:7777/live/972548/113543/8334.ts
+#EXTINF:-1,VIP-GR-Boyah
+http://51.255.77.23:7777/live/972548/113543/8335.ts
+#EXTINF:-1,VIP-GR-Channel-9
+http://51.255.77.23:7777/live/972548/113543/8336.ts
+#EXTINF:-1,VIP-GR-DIAVATA
+http://51.255.77.23:7777/live/972548/113543/8337.ts
+#EXTINF:-1,VIP-GR-DIKTYO
+http://51.255.77.23:7777/live/972548/113543/8338.ts
+#EXTINF:-1,VIP-GR-E
+http://51.255.77.23:7777/live/972548/113543/8339.ts
+#EXTINF:-1,VIP-GR-Ellinikosfm
+http://51.255.77.23:7777/live/972548/113543/8340.ts
+#EXTINF:-1,VIP-GR-Ept-1
+http://51.255.77.23:7777/live/972548/113543/8341.ts
+#EXTINF:-1,VIP-GR-Ept-2
+http://51.255.77.23:7777/live/972548/113543/8342.ts
+#EXTINF:-1,VIP-GR-ERT-1
+http://51.255.77.23:7777/live/972548/113543/8343.ts
+#EXTINF:-1,VIP-GR-Ert-HD
+http://51.255.77.23:7777/live/972548/113543/8344.ts
+#EXTINF:-1,VIP-GR-ERT2
+http://51.255.77.23:7777/live/972548/113543/8345.ts
+#EXTINF:-1,VIP-GR-Euronews
+http://51.255.77.23:7777/live/972548/113543/8346.ts
+#EXTINF:-1,VIP-GR-Eurosport-1
+http://51.255.77.23:7777/live/972548/113543/8347.ts
+#EXTINF:-1,VIP-GR-Eurosport-2
+http://51.255.77.23:7777/live/972548/113543/8348.ts
+#EXTINF:-1,VIP-GR-EXTRA
+http://51.255.77.23:7777/live/972548/113543/8349.ts
+#EXTINF:-1,VIP-GR-Extra-Channel
+http://51.255.77.23:7777/live/972548/113543/8350.ts
+#EXTINF:-1,VIP-GR-Gold
+http://51.255.77.23:7777/live/972548/113543/8385.ts
+#EXTINF:-1,VIP-GR-High
+http://51.255.77.23:7777/live/972548/113543/8351.ts
+#EXTINF:-1,VIP-GR-Hpeiros1
+http://51.255.77.23:7777/live/972548/113543/8352.ts
+#EXTINF:-1,VIP-GR-JAYZEE
+http://51.255.77.23:7777/live/972548/113543/8353.ts
+#EXTINF:-1,VIP-GR-KONTRA
+http://51.255.77.23:7777/live/972548/113543/8355.ts
+#EXTINF:-1,VIP-GR-Kontra-Channel
+http://51.255.77.23:7777/live/972548/113543/8354.ts
+#EXTINF:-1,VIP-GR-Krhth
+http://51.255.77.23:7777/live/972548/113543/8356.ts
+#EXTINF:-1,VIP-GR-KRITI
+http://51.255.77.23:7777/live/972548/113543/8357.ts
+#EXTINF:-1,VIP-GR-Lepanto
+http://51.255.77.23:7777/live/972548/113543/8358.ts
+#EXTINF:-1,VIP-GR-Mad
+http://51.255.77.23:7777/live/972548/113543/8359.ts
+#EXTINF:-1,VIP-GR-Makedonia
+http://51.255.77.23:7777/live/972548/113543/8360.ts
+#EXTINF:-1,VIP-GR-Makedonia-Delay
+http://51.255.77.23:7777/live/972548/113543/8361.ts
+#EXTINF:-1,VIP-GR-Makeleio-Web
+http://51.255.77.23:7777/live/972548/113543/8362.ts
+#EXTINF:-1,VIP-GR-Mega
+http://51.255.77.23:7777/live/972548/113543/8363.ts
+#EXTINF:-1,VIP-GR-MESSINIA
+http://51.255.77.23:7777/live/972548/113543/8364.ts
+#EXTINF:-1,VIP-GR-MTVeece
+http://51.255.77.23:7777/live/972548/113543/8365.ts
+#EXTINF:-1,VIP-GR-Mytilini
+http://51.255.77.23:7777/live/972548/113543/8320.ts
+#EXTINF:-1,VIP-GR-Nat-Geo
+http://51.255.77.23:7777/live/972548/113543/8366.ts
+#EXTINF:-1,VIP-GR-NEA
+http://51.255.77.23:7777/live/972548/113543/8367.ts
+#EXTINF:-1,VIP-GR-New
+http://51.255.77.23:7777/live/972548/113543/8368.ts
+#EXTINF:-1,VIP-GR-Nickelodeon
+http://51.255.77.23:7777/live/972548/113543/8369.ts
+#EXTINF:-1,VIP-GR-NOVA
+http://51.255.77.23:7777/live/972548/113543/8370.ts
+#EXTINF:-1,VIP-GR-OMEGA
+http://51.255.77.23:7777/live/972548/113543/8371.ts
+#EXTINF:-1,VIP-GR-Rik
+http://51.255.77.23:7777/live/972548/113543/8372.ts
+#EXTINF:-1,VIP-GR-SAMIAKI
+http://51.255.77.23:7777/live/972548/113543/8373.ts
+#EXTINF:-1,VIP-GR-SBC
+http://51.255.77.23:7777/live/972548/113543/8374.ts
+#EXTINF:-1,VIP-GR-Sigma
+http://51.255.77.23:7777/live/972548/113543/8375.ts
+#EXTINF:-1,VIP-GR-Skai
+http://51.255.77.23:7777/live/972548/113543/8376.ts
+#EXTINF:-1,VIP-GR-Smile
+http://51.255.77.23:7777/live/972548/113543/8377.ts
+#EXTINF:-1,VIP-GR-Star
+http://51.255.77.23:7777/live/972548/113543/8378.ts
+#EXTINF:-1,VIP-GR-Start
+http://51.255.77.23:7777/live/972548/113543/8379.ts
+#EXTINF:-1,VIP-GR-Thema
+http://51.255.77.23:7777/live/972548/113543/8380.ts
+#EXTINF:-1,VIP-GR-Thraki
+http://51.255.77.23:7777/live/972548/113543/8381.ts
+#EXTINF:-1,VIP-GR-ZOUGL@
+http://51.255.77.23:7777/live/972548/113543/8390.ts
+#EXTINF:-1,VIP-GR1-Siros
+http://51.255.77.23:7777/live/972548/113543/8386.ts
+#EXTINF:-1,VIP-GR100
+http://51.255.77.23:7777/live/972548/113543/8387.ts
+#EXTINF:-1,VIP-GR-TILESPORT
+http://51.255.77.23:7777/live/972548/113543/8382.ts
+#EXTINF:-1,VIP-GR-TRT
+http://51.255.77.23:7777/live/972548/113543/8383.ts
+#EXTINF:-1,VIP-GR-Vergina
+http://51.255.77.23:7777/live/972548/113543/8388.ts
+#EXTINF:-1,VIP-GR-VOULI
+http://51.255.77.23:7777/live/972548/113543/8389.ts
+#EXTINF:-1,GR-4E
+http://51.255.77.23:7777/live/972548/113543/5127.ts
+#EXTINF:-1,GR-Alpha-Cyp
+http://51.255.77.23:7777/live/972548/113543/5126.ts
+#EXTINF:-1,GR-Creta-Web-TV
+http://51.255.77.23:7777/live/972548/113543/5125.ts
+#EXTINF:-1,GR-Ebs
+http://51.255.77.23:7777/live/972548/113543/5124.ts
+#EXTINF:-1,GR-Ebs-Plus
+http://51.255.77.23:7777/live/972548/113543/5123.ts
+#EXTINF:-1,GR-Ert-1
+http://51.255.77.23:7777/live/972548/113543/5122.ts
+#EXTINF:-1,GR-Extra
+http://51.255.77.23:7777/live/972548/113543/5121.ts
+#EXTINF:-1,GR-Extra-3
+http://51.255.77.23:7777/live/972548/113543/5120.ts
+#EXTINF:-1,GR-Kontra-TV
+http://51.255.77.23:7777/live/972548/113543/5119.ts
+#EXTINF:-1,GR-Kphth-TV
+http://51.255.77.23:7777/live/972548/113543/5118.ts
+#EXTINF:-1,GR-Mad-TV
+http://51.255.77.23:7777/live/972548/113543/5117.ts
+#EXTINF:-1,GR-Mega-Cyp
+http://51.255.77.23:7777/live/972548/113543/5116.ts
+#EXTINF:-1,GR-Messina-tv-HD
+http://51.255.77.23:7777/live/972548/113543/5115.ts
 
 

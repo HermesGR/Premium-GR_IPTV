@@ -1,35 +1,48 @@
 #EXTM3U
 
-#EXTM3U
-#EXTINF:-1, Vouli TV IPTVultra.com [960x544]
+#EXTINF:-1, Vouli TV 
 http://217.23.1.3:6969/live/z1i37Fm9w6/TngixtKRRK/3657.ts
-#EXTINF:-1, ZOUGL@ IPTVultra.com [640x368]
+
+#EXTINF:-1, ZOUGLA
 http://217.23.1.3:6969/live/z1i37Fm9w6/TngixtKRRK/3305.ts
-#EXTINF:-1, TV Gold IPTVultra.com [512x288]
+
+#EXTINF:-1, TV Gold 
 http://217.23.1.3:6969/live/z1i37Fm9w6/TngixtKRRK/3308.ts
-#EXTINF:-1, VOULI IPTVultra.com [960x544]
+
+#EXTINF:-1, VOULI 
 http://217.23.1.3:6969/live/z1i37Fm9w6/TngixtKRRK/3306.ts
-#EXTINF:-1, Vergina TV IPTVultra.com [720x576]
+
+#EXTINF:-1, Vergina TV 
 http://217.23.1.3:6969/live/z1i37Fm9w6/TngixtKRRK/3333.ts
-#EXTINF:-1, TRT IPTVultra.com [720x576]
+
+#EXTINF:-1, TRT 
 http://217.23.1.3:6969/live/z1i37Fm9w6/TngixtKRRK/3309.ts
-#EXTINF:-1, Star TV IPTVultra.com [640x368]
+
+#EXTINF:-1, Star TV 
 http://217.23.1.3:6969/live/z1i37Fm9w6/TngixtKRRK/3353.ts
-#EXTINF:-1, Thema TV IPTVultra.com [1280x720]
+
+#EXTINF:-1, Thema TV 
 http://217.23.1.3:6969/live/z1i37Fm9w6/TngixtKRRK/3352.ts
-#EXTINF:-1, Smile IPTVultra.com [720x576]
+
+#EXTINF:-1, Smile 
 http://217.23.1.3:6969/live/z1i37Fm9w6/TngixtKRRK/3653.ts
-#EXTINF:-1, Start TV IPTVultra.com [640x368]
+
+#EXTINF:-1, Start TV 
 http://217.23.1.3:6969/live/z1i37Fm9w6/TngixtKRRK/3312.ts
-#EXTINF:-1, SAMIAKI IPTVultra.com [320x240]
+
+#EXTINF:-1, SAMIAKI
 http://217.23.1.3:6969/live/z1i37Fm9w6/TngixtKRRK/3314.ts
-#EXTINF:-1, OMEGA IPTVultra.com [1008x576]
+
+#EXTINF:-1, OMEGA 
 http://217.23.1.3:6969/live/z1i37Fm9w6/TngixtKRRK/3315.ts
-#EXTINF:-1, NOVA IPTVultra.com [720x576]
+
+#EXTINF:-1, NOVA 
 http://217.23.1.3:6969/live/z1i37Fm9w6/TngixtKRRK/3354.ts
-#EXTINF:-1, Rik IPTVultra.com [640x480]
+
+#EXTINF:-1, Rik 
 http://217.23.1.3:6969/live/z1i37Fm9w6/TngixtKRRK/3649.ts
-#EXTINF:-1, Nat Geo IPTVultra.com [720x576]
+
+#EXTINF:-1, Nat Geo 
 http://217.23.1.3:6969/live/z1i37Fm9w6/TngixtKRRK/3675.ts
 #EXTINF:-1, KRITI TV IPTVultra.com [864x480]
 http://217.23.1.3:6969/live/z1i37Fm9w6/TngixtKRRK/3323.ts

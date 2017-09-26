@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1,GR: OTE Cinma 1 HD
 http://ipsatpro.com:8000/live/190001659542687/190001659542687/2814.ts
 #EXTINF:-1,GR: OTE Cinma 2 HD

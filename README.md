@@ -1,525 +1,266 @@
 #EXTM3U
-#EXTINF:-1, OTE Sport 6 HD  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2811.ts
-#EXTINF:-1, OTE Cinma 1 HD  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2814.ts
-#EXTINF:-1, National Geographic HD  [864x1088]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2823.ts
-#EXTINF:-1, OTE Cinma 1  [1920x1088]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1427.ts
-#EXTINF:-1, OTE Sport 3 HD  [1088x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2808.ts
-#EXTINF:-1, OTE Cinma 3  [1920x1088]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1425.ts
-#EXTINF:-1, Travel HD  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2838.ts
-#EXTINF:-1, TV Creta  [480x272]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2820.ts
-#EXTINF:-1, OTE Cinma 2 HD  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2815.ts
-#EXTINF:-1, SPICY Greek Palmos  [640x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1409.ts
-#EXTINF:-1, OTE Sport 5 HD  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2810.ts
-#EXTINF:-1, SAMIAKI TV  [320x240]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2841.ts
-#EXTINF:-1, Discovery ID HD  [720x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2827.ts
-#EXTINF:-1, EPT 2  [720x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/866.ts
-#EXTINF:-1, OTE Sport 8 HD  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2813.ts
-#EXTINF:-1, Disney XD HD  [480x512]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2832.ts
-#EXTINF:-1, Start tv  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2825.ts
-#EXTINF:-1, OTE Village Cinema  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2818.ts
-#EXTINF:-1, Discovery Science HD  [720x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2828.ts
-#EXTINF:-1, OTE Sport 2 HD  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2807.ts
-#EXTINF:-1, OTE Sport 1 HD  [1120x640]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2806.ts
-#EXTINF:-1, Discovery showcas HD  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2829.ts
-#EXTINF:-1, TLC HD  [720x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2837.ts
-#EXTINF:-1, OTE Cinma 4 HD  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2817.ts
-#EXTINF:-1, OTE Sport 1  [1920x1088]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2858.ts
-#EXTINF:-1, OTE Sport 4 HD  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2809.ts
-#EXTINF:-1, Sigma Live  [480x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2855.ts
-#EXTINF:-1, Tv1  [720x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/868.ts
-#EXTINF:-1, Disney HD  [544x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2830.ts
-#EXTINF:-1, OTE Highlight HD  [864x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2836.ts
-#EXTINF:-1, Cartoons  [640x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1413.ts
-#EXTINF:-1, Beby HD  [704x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2834.ts
-#EXTINF:-1, OTE Cinma 3 HD  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2816.ts
-#EXTINF:-1, OTE Sport 7 HD  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2812.ts
-#EXTINF:-1, Kontra Channel  [720x400]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/876.ts
-#EXTINF:-1, National Geo HD  [1008x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1422.ts
-#EXTINF:-1, NETO Toronto  [864x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1410.ts
-#EXTINF:-1, Aigalo TV  [656x496]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1419.ts
-#EXTINF:-1, History 2 HD  [640x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2822.ts
-#EXTINF:-1, HellasT  [864x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1414.ts
-#EXTINF:-1, MAD (CY)  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2849.ts
-#EXTINF:-1, Fox tv  [720x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1417.ts
-#EXTINF:-1, Nat Geo Wild HD  [960x544]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2824.ts
-#EXTINF:-1, OTE Cinma 2  [1920x1088]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1426.ts
-#EXTINF:-1, Disney Junior HD  [480x512]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2831.ts
-#EXTINF:-1, Fox HD  [704x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2840.ts
-#EXTINF:-1, Hellas TV  [320x240]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1408.ts
-#EXTINF:-1, MAD TV  [1536x432]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/857.ts
-#EXTINF:-1, Alpha CY  [768x432]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1407.ts
-#EXTINF:-1, Antenna  [640x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/847.ts
-#EXTINF:-1, Faros On Air  [864x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2835.ts
-#EXTINF:-1, OTE Cinma 4  [1920x1088]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1424.ts
-#EXTINF:-1, Lampsi TV  [640x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1412.ts
-#EXTINF:-1, Cannali Musiki  [864x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1416.ts
-#EXTINF:-1, ANT1  [640x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/856.ts
-#EXTINF:-1, Discovery HD  [720x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2826.ts
-#EXTINF:-1, Macedonia TV HD  [1920x1088]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1418.ts
-#EXTINF:-1, Nea TV  [864x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/875.ts
-#EXTINF:-1, TV filopoli  [480x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2842.ts
-#EXTINF:-1, NG TV  [640x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2848.ts
-#EXTINF:-1, Thrakinettv  [864x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2851.ts
-#EXTINF:-1, Hear Best  [640x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2847.ts
-#EXTINF:-1, EBS PLUS  [640x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2854.ts
-#EXTINF:-1, EBS  [640x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2853.ts
-#EXTINF:-1, Attica  [768x432]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2844.ts
-#EXTINF:-1, AXELWOS TV  [720x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2845.ts
-#EXTINF:-1, BRT 1  [480x272]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2856.ts
-#EXTINF:-1, BRT 2  [480x272]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2857.ts
-#EXTINF:-1, IB3  [896x512]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1415.ts
-#EXTINF:-1, Discovery T&L  [720x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/859.ts
-#EXTINF:-1, OTE Sport 2  [640x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2859.ts
-#EXTINF:-1, Giallo  [912x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/850.ts
-#EXTINF:-1, Montreal TV  [720x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2843.ts
-#EXTINF:-1, OTE Sport 3  [1920x1088]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2860.ts
-#EXTINF:-1, KPHTH TV  [864x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2850.ts
-#EXTINF:-1, VOULI 2  [960x544]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2852.ts
-#EXTINF:-1, Sky Fox Animation HD  [864x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/865.ts
-#EXTINF:-1, Milan Channel  [1280x736]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/860.ts
-#EXTINF:-1, Pescare Cacciare TV  [1280x736]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/867.ts
-#EXTINF:-1, Rik Sat  [480x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2863.ts
-#EXTINF:-1, Sky Fox Life HD  [1280x736]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/862.ts
-#EXTINF:-1, Muzik Greek  [640x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1420.ts
-#EXTINF:-1, Premium Energy +24  [720x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/872.ts
-#EXTINF:-1, Ionian Channel  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1411.ts
-#EXTINF:-1, OTE Sport 4  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2861.ts
-#EXTINF:-1, Cannali HD  [864x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2864.ts
-#EXTINF:-1, TV 8  [720x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/851.ts
-#EXTINF:-1, Deejay TV  [1920x1088]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/854.ts
-#EXTINF:-1, Messinia  [864x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2873.ts
-#EXTINF:-1, Rete 4  [720x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/848.ts
-#EXTINF:-1, Onda tv  [640x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/849.ts
-#EXTINF:-1, Max Cinma  [720x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2869.ts
-#EXTINF:-1, Mega One CY  [864x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2871.ts
-#EXTINF:-1, TeleTicino  [864x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/869.ts
-#EXTINF:-1, History alb  [480x272]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/873.ts
-#EXTINF:-1, Gambero Rosso  [1920x1088]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/855.ts
-#EXTINF:-1, ANT1 CY  [864x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2870.ts
-#EXTINF:-1, Super TV  [832x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/870.ts
-#EXTINF:-1, Sky Fox HD  [1280x736]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/861.ts
-#EXTINF:-1, GR: Magic tv  [864x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2862.ts
-#EXTINF:-1, VOULI  [960x544]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2865.ts
-#EXTINF:-1, Orler  [720x432]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/871.ts
-#EXTINF:-1, Discovery Sci HD  [1280x736]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/858.ts
-#EXTINF:-1, Nickelodeon HD  [720x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2833.ts
-#EXTINF:-1, LYCHNOS  [720x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/2846.ts
-#EXTINF:-1, Fox tv  [720x576]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/417.ts
-#EXTINF:-1, HellasT  [864x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/414.ts
-#EXTINF:-1, Lampsi TV  [640x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/412.ts
-#EXTINF:-1, Ionian Channel  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/411.ts
-#EXTINF:-1, Cannali Musiki  [864x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/416.ts
-#EXTINF:-1, Discovery showcas HD  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/829.ts
-#EXTINF:-1, NETO Toronto  [864x480]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/410.ts
-#EXTINF:-1, SPICY Greek Palmos  [640x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/409.ts
-#EXTINF:-1, Cartoons  [640x368]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/413.ts
-#EXTINF:-1, IB3  [896x512]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/415.ts
-#EXTINF:-1, MPAXALO TV  [960x544]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/839.ts
-#EXTINF:-1, OTE Cinma 1 HD  [1280x720]
-http://185.2.83.60:8000/live/190001659542687/190001659542687/814.ts
-#EXTINF:-1, ZOUGL@  [640x368]
+
+#EXTINF:-1,GR: ZOUGL@
 http://217.23.1.3:6969/live/Damian/Damian/3305.ts
-#EXTINF:-1, Vouli TV  [960x544]
+#EXTINF:-1,GR: Vouli TV
 http://217.23.1.3:6969/live/Damian/Damian/3657.ts
-#EXTINF:-1, Vergina TV  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3333.ts
-#EXTINF:-1, TV Gold  [512x288]
-http://217.23.1.3:6969/live/Damian/Damian/3308.ts
-#EXTINF:-1, TRT  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3309.ts
-#EXTINF:-1, Thraki TV  [640x368]
-http://217.23.1.3:6969/live/Damian/Damian/3311.ts
-#EXTINF:-1, Thema TV  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/3352.ts
-#EXTINF:-1, Start TV  [640x368]
-http://217.23.1.3:6969/live/Damian/Damian/3312.ts
-#EXTINF:-1, Smile  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3653.ts
-#EXTINF:-1, Skai  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3338.ts
-#EXTINF:-1, Sigma  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3339.ts
-#EXTINF:-1, Rik  [640x480]
-http://217.23.1.3:6969/live/Damian/Damian/3649.ts
-#EXTINF:-1, Omega TV  [1008x576]
-http://217.23.1.3:6969/live/Damian/Damian/3340.ts
-#EXTINF:-1, NOVA  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3354.ts
-#EXTINF:-1, New TV  [704x576]
-http://217.23.1.3:6969/live/Damian/Damian/3321.ts
-#EXTINF:-1, Nat Geo  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3675.ts
-#EXTINF:-1, Makedonia TV  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3641.ts
-#EXTINF:-1, Mad TV  [608x480]
-http://217.23.1.3:6969/live/Damian/Damian/3640.ts
-#EXTINF:-1, KRITI TV  [864x480]
-http://217.23.1.3:6969/live/Damian/Damian/3323.ts
-#EXTINF:-1, KONTRA TV  [720x400]
-http://217.23.1.3:6969/live/Damian/Damian/3324.ts
-#EXTINF:-1, Hpeiros TV1  [640x368]
-http://217.23.1.3:6969/live/Damian/Damian/3356.ts
-#EXTINF:-1, Extra Channel  [688x560]
-http://217.23.1.3:6969/live/Damian/Damian/3636.ts
-#EXTINF:-1, Euronews  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/3316.ts
-#EXTINF:-1, ERT2  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/3345.ts
-#EXTINF:-1, ERT 1  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/3347.ts
-#EXTINF:-1, Ept 1  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/3672.ts
-#EXTINF:-1, DIAVATA TV  [640x368]
-http://217.23.1.3:6969/live/Damian/Damian/3317.ts
-#EXTINF:-1, SBC  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3313.ts
-#EXTINF:-1, Channel 9  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3668.ts
-#EXTINF:-1, BLUE SKY  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3329.ts
-#EXTINF:-1, OMEGA  [1008x576]
-http://217.23.1.3:6969/live/Damian/Damian/3315.ts
-#EXTINF:-1, Axeloos TV  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3330.ts
-#EXTINF:-1, Astra  [848x480]
-http://217.23.1.3:6969/live/Damian/Damian/3331.ts
-#EXTINF:-1, Art  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3332.ts
-#EXTINF:-1, APT  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3673.ts
-#EXTINF:-1, Nea Tv  [1024x576]
-http://217.23.1.3:6969/live/Damian/Damian/3647.ts
-#EXTINF:-1, NEA  [1024x576]
-http://217.23.1.3:6969/live/Damian/Damian/3319.ts
-#EXTINF:-1, ANT1  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/3349.ts
-#EXTINF:-1, Alpha  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3350.ts
-#EXTINF:-1, MTVeece  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3646.ts
-#EXTINF:-1, Mega  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3341.ts
-#EXTINF:-1, ACTION 24  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3335.ts
-#EXTINF:-1, Ant1 Cyprus  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/3663.ts
-#EXTINF:-1, BABY TV  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/11708.ts
-#EXTINF:-1, CANNALI MUSIC  [864x480]
-http://217.23.1.3:6969/live/Damian/Damian/11746.ts
-#EXTINF:-1, CAPITAL CYPRUS  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/11712.ts
-#EXTINF:-1, CBS REALITY  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/11744.ts
-#EXTINF:-1, Krhth TV  [864x480]
-http://217.23.1.3:6969/live/Damian/Damian/3639.ts
-#EXTINF:-1, COSMOTE VILLAGE CINEMA  [1296x720]
-http://217.23.1.3:6969/live/Damian/Damian/11764.ts
-#EXTINF:-1, DISCOVERY ID  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/11741.ts
-#EXTINF:-1, VOULI  [960x544]
+#EXTINF:-1,GR: VOULI
 http://217.23.1.3:6969/live/Damian/Damian/3306.ts
-#EXTINF:-1, EXTRA  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3326.ts
-#EXTINF:-1, Eurosport 2  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3343.ts
-#EXTINF:-1, DISNEY JUNIOR  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/11706.ts
-#EXTINF:-1, EXTRA CYPRUS  [688x560]
-http://217.23.1.3:6969/live/Damian/Damian/11711.ts
-#EXTINF:-1, FASHION TV HD  [1920x1088]
-http://217.23.1.3:6969/live/Damian/Damian/11737.ts
-#EXTINF:-1, FISHING TV  [1008x576]
-http://217.23.1.3:6969/live/Damian/Damian/11728.ts
-#EXTINF:-1, GREECE  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/11730.ts
-#EXTINF:-1, GSTREAMS MUSIC VIDEO CLIP 1  [640x368]
-http://217.23.1.3:6969/live/Damian/Damian/11751.ts
-#EXTINF:-1, GSTREAMS MUSIC VIDEO CLIP 2  [864x480]
-http://217.23.1.3:6969/live/Damian/Damian/11750.ts
-#EXTINF:-1, GSTREAMS MUSIC  VIDEO CLIP 3  [464x368]
-http://217.23.1.3:6969/live/Damian/Damian/11749.ts
-#EXTINF:-1, HISTORY HD  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/11736.ts
-#EXTINF:-1, Nickelodeon  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3648.ts
-#EXTINF:-1, HUNTER TV  [1008x576]
-http://217.23.1.3:6969/live/Damian/Damian/11729.ts
-#EXTINF:-1, Apeiro TV  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/3359.ts
-#EXTINF:-1, MAD CY  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/11709.ts
-#EXTINF:-1, MOVIES GR SUBS 1  [864x480]
-http://217.23.1.3:6969/live/Damian/Damian/11762.ts
-#EXTINF:-1, Ant1 HD  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/3665.ts
-#EXTINF:-1, MOVIES GR SUBS 2  [640x480]
-http://217.23.1.3:6969/live/Damian/Damian/11761.ts
-#EXTINF:-1, MOVIES GR SUBS 3  [640x480]
-http://217.23.1.3:6969/live/Damian/Damian/11760.ts
-#EXTINF:-1, MESSINIA TV  [864x480]
-http://217.23.1.3:6969/live/Damian/Damian/3320.ts
-#EXTINF:-1, NATIONAL GEOGRAFIC HD  [864x1088]
-http://217.23.1.3:6969/live/Damian/Damian/11726.ts
-#EXTINF:-1, OTE CINEMA 2  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/11767.ts
-#EXTINF:-1, ANIMAL PLANET HD  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/11745.ts
-#EXTINF:-1, OTE CINEMA 3  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/11766.ts
-#EXTINF:-1, RIK 1  [432x464]
-http://217.23.1.3:6969/live/Damian/Damian/11716.ts
-#EXTINF:-1, RIK 2  [432x464]
-http://217.23.1.3:6969/live/Damian/Damian/11715.ts
-#EXTINF:-1, SiGMA CYPRUS  [720x560]
-http://217.23.1.3:6969/live/Damian/Damian/11713.ts
-#EXTINF:-1, SUNDANCE CHANNEL HD  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/11725.ts
-#EXTINF:-1, TRAVEL CHANNEL HD  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/11724.ts
-#EXTINF:-1, DISCOVERY ID EXTRA  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/11740.ts
-#EXTINF:-1, DISCOVERY SCIENCE HD  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/11739.ts
-#EXTINF:-1, DISCOVERY TURBO EXTRA  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/11738.ts
-#EXTINF:-1, Ert HD  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/3670.ts
-#EXTINF:-1, Ept 2  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3674.ts
-#EXTINF:-1, GSTREAMS DOCUMENTARY 4  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/11732.ts
-#EXTINF:-1, Star  [640x368]
-http://217.23.1.3:6969/live/Damian/Damian/3654.ts
-#EXTINF:-1, AB Channel  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3659.ts
-#EXTINF:-1, EPIRUS TV1  [704x576]
-http://217.23.1.3:6969/live/Damian/Damian/3357.ts
-#EXTINF:-1, Makedonia  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3322.ts
-#EXTINF:-1, RIK SAT  [560x384]
-http://217.23.1.3:6969/live/Damian/Damian/11717.ts
-#EXTINF:-1, DISCOVERY HD SHOWCASE  [1088x720]
-http://217.23.1.3:6969/live/Damian/Damian/11742.ts
-#EXTINF:-1, DISNEY CHANNEL  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/11707.ts
-#EXTINF:-1, SAMIAKI  [320x240]
-http://217.23.1.3:6969/live/Damian/Damian/3314.ts
-#EXTINF:-1, NAT GEO WILD  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/11727.ts
-#EXTINF:-1, 4E  [640x480]
-http://217.23.1.3:6969/live/Damian/Damian/3336.ts
-#EXTINF:-1, Eurosport 1  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/3344.ts
-#EXTINF:-1, GSTREAMS DOCUMENTARY 2  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/11733.ts
-#EXTINF:-1, PLUS CYPRUS  [704x560]
-http://217.23.1.3:6969/live/Damian/Damian/11710.ts
-#EXTINF:-1, High TV  [320x208]
-http://217.23.1.3:6969/live/Damian/Damian/3637.ts
-#EXTINF:-1, 4E Star  [640x480]
-http://217.23.1.3:6969/live/Damian/Damian/3337.ts
-#EXTINF:-1, Kontra Channel  [720x400]
-http://217.23.1.3:6969/live/Damian/Damian/3638.ts
-#EXTINF:-1, VIASAT HISTORY  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/11723.ts
-#EXTINF:-1, Star TV  [640x368]
+#EXTINF:-1,GR: Vergina TV
+http://217.23.1.3:6969/live/Damian/Damian/3333.ts
+#EXTINF:-1,GR: Tv100
+http://217.23.1.3:6969/live/Damian/Damian/3307.ts
+#EXTINF:-1,GR: TV1 Siros
+http://217.23.1.3:6969/live/Damian/Damian/3327.ts
+#EXTINF:-1,GR: TV Gold
+http://217.23.1.3:6969/live/Damian/Damian/3308.ts
+#EXTINF:-1,GR: TV 1000
+http://217.23.1.3:6969/live/Damian/Damian/3351.ts
+#EXTINF:-1,GR: TRT
+http://217.23.1.3:6969/live/Damian/Damian/3309.ts
+#EXTINF:-1,GR: TILESPORT
+http://217.23.1.3:6969/live/Damian/Damian/3310.ts
+#EXTINF:-1,GR: Thraki TV
+http://217.23.1.3:6969/live/Damian/Damian/3311.ts
+#EXTINF:-1,GR: Thema TV
+http://217.23.1.3:6969/live/Damian/Damian/3352.ts
+#EXTINF:-1,GR: Start TV
+http://217.23.1.3:6969/live/Damian/Damian/3312.ts
+#EXTINF:-1,GR: Star TV
 http://217.23.1.3:6969/live/Damian/Damian/3353.ts
-#EXTINF:-1, Makedonia TV Delay  [720x576]
+#EXTINF:-1,GR: Star
+http://217.23.1.3:6969/live/Damian/Damian/3654.ts
+#EXTINF:-1,GR: Smile
+http://217.23.1.3:6969/live/Damian/Damian/3653.ts
+#EXTINF:-1,GR: Skai
+http://217.23.1.3:6969/live/Damian/Damian/3338.ts
+#EXTINF:-1,GR: Sigma
+http://217.23.1.3:6969/live/Damian/Damian/3339.ts
+#EXTINF:-1,GR: SBC
+http://217.23.1.3:6969/live/Damian/Damian/3313.ts
+#EXTINF:-1,GR: SAMIAKI
+http://217.23.1.3:6969/live/Damian/Damian/3314.ts
+#EXTINF:-1,GR: Rik
+http://217.23.1.3:6969/live/Damian/Damian/3649.ts
+#EXTINF:-1,GR: Omega TV
+http://217.23.1.3:6969/live/Damian/Damian/3340.ts
+#EXTINF:-1,GR: OMEGA
+http://217.23.1.3:6969/live/Damian/Damian/3315.ts
+#EXTINF:-1,GR: NOVA
+http://217.23.1.3:6969/live/Damian/Damian/3354.ts
+#EXTINF:-1,GR: Nickelodeon
+http://217.23.1.3:6969/live/Damian/Damian/3648.ts
+#EXTINF:-1,GR: New TV
+http://217.23.1.3:6969/live/Damian/Damian/3321.ts
+#EXTINF:-1,GR: Nea Tv
+http://217.23.1.3:6969/live/Damian/Damian/3647.ts
+#EXTINF:-1,GR: NEA
+http://217.23.1.3:6969/live/Damian/Damian/3319.ts
+#EXTINF:-1,GR: Nat Geo
+http://217.23.1.3:6969/live/Damian/Damian/3675.ts
+#EXTINF:-1,GR: MTVeece
+http://217.23.1.3:6969/live/Damian/Damian/3646.ts
+#EXTINF:-1,GR: MESSINIA TV
+http://217.23.1.3:6969/live/Damian/Damian/3320.ts
+#EXTINF:-1,GR: Mega
+http://217.23.1.3:6969/live/Damian/Damian/3341.ts
+#EXTINF:-1,GR: Makeleio Web Tv
+http://217.23.1.3:6969/live/Damian/Damian/3355.ts
+#EXTINF:-1,GR: Makedonia TV Delay
 http://217.23.1.3:6969/live/Damian/Damian/3642.ts
-#EXTINF:-1, VILLAGE CINEMA HD  [1296x720]
-http://217.23.1.3:6969/live/Damian/Damian/11763.ts
-#EXTINF:-1, DIKTYO  [640x368]
-http://217.23.1.3:6969/live/Damian/Damian/3358.ts
-#EXTINF:-1, DISCOVERY CHANNEL  [720x576]
-http://217.23.1.3:6969/live/Damian/Damian/11743.ts
-#EXTINF:-1, E  [1024x576]
+#EXTINF:-1,GR: Makedonia TV
+http://217.23.1.3:6969/live/Damian/Damian/3641.ts
+#EXTINF:-1,GR: Makedonia
+http://217.23.1.3:6969/live/Damian/Damian/3322.ts
+#EXTINF:-1,GR: Mad TV
+http://217.23.1.3:6969/live/Damian/Damian/3640.ts
+#EXTINF:-1,GR: Lepanto
+http://217.23.1.3:6969/live/Damian/Damian/3342.ts
+#EXTINF:-1,GR: KRITI TV
+http://217.23.1.3:6969/live/Damian/Damian/3323.ts
+#EXTINF:-1,GR: Krhth TV
+http://217.23.1.3:6969/live/Damian/Damian/3639.ts
+#EXTINF:-1,GR: KONTRA TV
+http://217.23.1.3:6969/live/Damian/Damian/3324.ts
+#EXTINF:-1,GR: Kontra Channel
+http://217.23.1.3:6969/live/Damian/Damian/3638.ts
+#EXTINF:-1,GR: JAYZEE
+http://217.23.1.3:6969/live/Damian/Damian/3325.ts
+#EXTINF:-1,GR: Hpeiros TV1
+http://217.23.1.3:6969/live/Damian/Damian/3356.ts
+#EXTINF:-1,GR: High TV
+http://217.23.1.3:6969/live/Damian/Damian/3637.ts
+#EXTINF:-1,GR: Extra Channel
+http://217.23.1.3:6969/live/Damian/Damian/3636.ts
+#EXTINF:-1,GR: EXTRA
+http://217.23.1.3:6969/live/Damian/Damian/3326.ts
+#EXTINF:-1,GR: Eurosport 2
+http://217.23.1.3:6969/live/Damian/Damian/3343.ts
+#EXTINF:-1,GR: Eurosport 1
+http://217.23.1.3:6969/live/Damian/Damian/3344.ts
+#EXTINF:-1,GR: Euronews
+http://217.23.1.3:6969/live/Damian/Damian/3316.ts
+#EXTINF:-1,GR: ERT2
+http://217.23.1.3:6969/live/Damian/Damian/3345.ts
+#EXTINF:-1,GR: Ert HD
+http://217.23.1.3:6969/live/Damian/Damian/3670.ts
+#EXTINF:-1,GR: ERT 1
+http://217.23.1.3:6969/live/Damian/Damian/3347.ts
+#EXTINF:-1,GR: Ept 2
+http://217.23.1.3:6969/live/Damian/Damian/3674.ts
+#EXTINF:-1,GR: Ept 1
+http://217.23.1.3:6969/live/Damian/Damian/3672.ts
+#EXTINF:-1,GR: Ellinikosfm TV
+http://217.23.1.3:6969/live/Damian/Damian/3328.ts
+#EXTINF:-1,GR: E
 http://217.23.1.3:6969/live/Damian/Damian/3348.ts
-#EXTINF:-1, GSTREAMS DOCUMENTARY 1  [1280x720]
+#EXTINF:-1,GR: DIKTYO
+http://217.23.1.3:6969/live/Damian/Damian/3358.ts
+#EXTINF:-1,GR: DIAVATA TV
+http://217.23.1.3:6969/live/Damian/Damian/3317.ts
+#EXTINF:-1,GR: Channel 9
+http://217.23.1.3:6969/live/Damian/Damian/3668.ts
+#EXTINF:-1,GR: Boyah
+http://217.23.1.3:6969/live/Damian/Damian/3651.ts
+#EXTINF:-1,GR: BLUE SKY
+http://217.23.1.3:6969/live/Damian/Damian/3329.ts
+#EXTINF:-1,GR: Axeloos TV
+http://217.23.1.3:6969/live/Damian/Damian/3330.ts
+#EXTINF:-1,GR: Astra
+http://217.23.1.3:6969/live/Damian/Damian/3331.ts
+#EXTINF:-1,GR: Art
+http://217.23.1.3:6969/live/Damian/Damian/3332.ts
+#EXTINF:-1,GR: APT
+http://217.23.1.3:6969/live/Damian/Damian/3673.ts
+#EXTINF:-1,GR: Apeiro TV
+http://217.23.1.3:6969/live/Damian/Damian/3359.ts
+#EXTINF:-1,GR: Ant1 HD
+http://217.23.1.3:6969/live/Damian/Damian/3665.ts
+#EXTINF:-1,GR: ANT1
+http://217.23.1.3:6969/live/Damian/Damian/3349.ts
+#EXTINF:-1,GR: Alpha
+http://217.23.1.3:6969/live/Damian/Damian/3350.ts
+#EXTINF:-1,GR: AIGAIO TV
+http://217.23.1.3:6969/live/Damian/Damian/3334.ts
+#EXTINF:-1,GR: ACTION 24
+http://217.23.1.3:6969/live/Damian/Damian/3335.ts
+#EXTINF:-1,GR: AB Channel
+http://217.23.1.3:6969/live/Damian/Damian/3659.ts
+#EXTINF:-1,GR: 4E Star
+http://217.23.1.3:6969/live/Damian/Damian/3337.ts
+#EXTINF:-1,GR: 4E
+http://217.23.1.3:6969/live/Damian/Damian/3336.ts
+#EXTINF:-1,GR: EPIRUS TV1
+http://217.23.1.3:6969/live/Damian/Damian/3357.ts
+#EXTINF:-1,GR: Ant1 Cyprus
+http://217.23.1.3:6969/live/Damian/Damian/3663.ts
+#EXTINF:-1,GR: ANIMAL PLANET HD
+http://217.23.1.3:6969/live/Damian/Damian/11745.ts
+#EXTINF:-1,GR: BABY TV
+http://217.23.1.3:6969/live/Damian/Damian/11708.ts
+#EXTINF:-1,GR: CANNALI MUSIC
+http://217.23.1.3:6969/live/Damian/Damian/11746.ts
+#EXTINF:-1,GR: CAPITAL CYPRUS
+http://217.23.1.3:6969/live/Damian/Damian/11712.ts
+#EXTINF:-1,GR: CBS REALITY
+http://217.23.1.3:6969/live/Damian/Damian/11744.ts
+#EXTINF:-1,GR: COSMOTE VILLAGE CINEMA
+http://217.23.1.3:6969/live/Damian/Damian/11764.ts
+#EXTINF:-1,GR: DISCOVERY CHANNEL
+http://217.23.1.3:6969/live/Damian/Damian/11743.ts
+#EXTINF:-1,GR: DISCOVERY HD SHOWCASE
+http://217.23.1.3:6969/live/Damian/Damian/11742.ts
+#EXTINF:-1,GR: DISCOVERY ID
+http://217.23.1.3:6969/live/Damian/Damian/11741.ts
+#EXTINF:-1,GR: DISCOVERY ID EXTRA
+http://217.23.1.3:6969/live/Damian/Damian/11740.ts
+#EXTINF:-1,GR: DISCOVERY SCIENCE HD
+http://217.23.1.3:6969/live/Damian/Damian/11739.ts
+#EXTINF:-1,GR: DISCOVERY TURBO EXTRA
+http://217.23.1.3:6969/live/Damian/Damian/11738.ts
+#EXTINF:-1,GR: DISNEY CHANNEL
+http://217.23.1.3:6969/live/Damian/Damian/11707.ts
+#EXTINF:-1,GR: DISNEY JUNIOR
+http://217.23.1.3:6969/live/Damian/Damian/11706.ts
+#EXTINF:-1,GR: EXTRA CYPRUS
+http://217.23.1.3:6969/live/Damian/Damian/11711.ts
+#EXTINF:-1,GR: FASHION TV HD
+http://217.23.1.3:6969/live/Damian/Damian/11737.ts
+#EXTINF:-1,GR: FISHING TV
+http://217.23.1.3:6969/live/Damian/Damian/11728.ts
+#EXTINF:-1,GR: FOX HD
+http://217.23.1.3:6969/live/Damian/Damian/11719.ts
+#EXTINF:-1,GR: FOX LIFE HD
+http://217.23.1.3:6969/live/Damian/Damian/11718.ts
+#EXTINF:-1,GR: GREECE
+http://217.23.1.3:6969/live/Damian/Damian/11730.ts
+#EXTINF:-1,GR: GSTREAMS DOCUMENTARY 1
 http://217.23.1.3:6969/live/Damian/Damian/11734.ts
-#EXTINF:-1, Best Movies 1  [640x480]
-http://217.23.1.3:6969/live/Damian/Damian/12720.ts
-#EXTINF:-1, Best Movies 2  [640x480]
-http://217.23.1.3:6969/live/Damian/Damian/12719.ts
-#EXTINF:-1, Best Movies 6  [640x480]
-http://217.23.1.3:6969/live/Damian/Damian/12715.ts
-#EXTINF:-1, Greek Cinema 80s 1  [720x400]
-http://217.23.1.3:6969/live/Damian/Damian/12714.ts
-#EXTINF:-1, Greek Mix  [640x368]
-http://217.23.1.3:6969/live/Damian/Damian/12711.ts
-#EXTINF:-1, Greek Old Movies 1  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/12710.ts
-#EXTINF:-1, Greek Old Movies 3  [464x368]
-http://217.23.1.3:6969/live/Damian/Damian/12708.ts
-#EXTINF:-1, Greek Series 2  [640x480]
-http://217.23.1.3:6969/live/Damian/Damian/12706.ts
-#EXTINF:-1, Kids 1  [640x480]
-http://217.23.1.3:6969/live/Damian/Damian/12705.ts
-#EXTINF:-1, Kids 5  [704x400]
-http://217.23.1.3:6969/live/Damian/Damian/12701.ts
-#EXTINF:-1,OTE CINEMA 1  [1280x720]
-http://217.23.1.3:6969/live/Damian/Damian/11768.ts
-#EXTINF:-1, Cinemaeek 2  [640x368]
-http://217.23.1.3:6969/live/Damian/Damian/12721.ts
-#EXTINF:-1, Greek Cinema 80s 3  [720x400]
-http://217.23.1.3:6969/live/Damian/Damian/12712.ts
-#EXTINF:-1, Greek Old Movies 2  [640x480]
-http://217.23.1.3:6969/live/Damian/Damian/12709.ts
-#EXTINF:-1, Greek Series 1  [576x432]
-http://217.23.1.3:6969/live/Damian/Damian/12707.ts
-#EXTINF:-1, Kids 3  [1056x576]
-http://217.23.1.3:6969/live/Damian/Damian/12703.ts
-#EXTINF:-1, Cinemaeek 1  [1024x576]
-http://217.23.1.3:6969/live/Damian/Damian/12722.ts
-#EXTINF:-1, Greek Cinema 80s 2  [720x400]
-http://217.23.1.3:6969/live/Damian/Damian/12713.ts
-#EXTINF:-1, Kids 2  [512x384]
-http://217.23.1.3:6969/live/Damian/Damian/12704.ts
-#EXTINF:-1, Best Movies 4  [864x480]
-http://217.23.1.3:6969/live/Damian/Damian/12717.ts
-#EXTINF:-1, Best Movies 5  [864x480]
-http://217.23.1.3:6969/live/Damian/Damian/12716.ts
-#EXTINF:-1, Best Movies 3  [864x480]
-http://217.23.1.3:6969/live/Damian/Damian/12718.ts
-#EXTINF:-1, 4e  [640x480]
-http://93.115.27.38:8000/live/frank/frank/6045.ts
-#EXTINF:-1, Macdonea tv hd  [1920x1088]
-http://93.115.27.38:8000/live/frank/frank/6041.ts
-#EXTINF:-1, SKAI  [720x576]
-http://93.115.27.38:8000/live/frank/frank/6043.ts
-#EXTINF:-1, Nickelodeon  [720x576]
-http://93.115.27.38:8000/live/frank/frank/6042.ts
-#EXTINF:-1, MEGA  [720x576]
-http://93.115.27.38:8000/live/frank/frank/6051.ts
-#EXTINF:-1, ERT 3  [720x576]
-http://93.115.27.38:8000/live/frank/frank/6046.ts
-#EXTINF:-1, EBS  [640x368]
-http://93.115.27.38:8000/live/frank/frank/6048.ts
-#EXTINF:-1, START  [720x576]
-http://93.115.27.38:8000/live/frank/frank/6044.ts
-#EXTINF:-1, MAD CY  [608x480]
-http://93.115.27.38:8000/live/frank/frank/6050.ts
-#EXTINF:-1, ERT 1  [720x576]
-http://93.115.27.38:8000/live/frank/frank/6055.ts
-#EXTINF:-1, ANT1  [1280x720]
-http://93.115.27.38:8000/live/frank/frank/6038.ts
-#EXTINF:-1, CRETA TV  [864x480]
-http://93.115.27.38:8000/live/frank/frank/6047.ts
-#EXTINF:-1, KRHTH TV  [864x480]
-http://93.115.27.38:8000/live/frank/frank/6049.ts
+#EXTINF:-1,GR: GSTREAMS DOCUMENTARY 2
+http://217.23.1.3:6969/live/Damian/Damian/11733.ts
+#EXTINF:-1,GR: GSTREAMS DOCUMENTARY 4
+http://217.23.1.3:6969/live/Damian/Damian/11732.ts
+#EXTINF:-1,GR: GSTREAMS GREEK HITS
+http://217.23.1.3:6969/live/Damian/Damian/11748.ts
+#EXTINF:-1,GR: GSTREAMS HISTORY CHANNEL
+http://217.23.1.3:6969/live/Damian/Damian/11735.ts
+#EXTINF:-1,GR: GSTREAMS KSENA HITS
+http://217.23.1.3:6969/live/Damian/Damian/11747.ts
+#EXTINF:-1,GR: GSTREAMS MUSIC  VIDEO CLIP 3
+http://217.23.1.3:6969/live/Damian/Damian/11749.ts
+#EXTINF:-1,GR: GSTREAMS MUSIC VIDEO CLIP 1
+http://217.23.1.3:6969/live/Damian/Damian/11751.ts
+#EXTINF:-1,GR: GSTREAMS MUSIC VIDEO CLIP 2
+http://217.23.1.3:6969/live/Damian/Damian/11750.ts
+#EXTINF:-1,GR: GSTREAMS SYNTAGES MAGEIRIKHS
+http://217.23.1.3:6969/live/Damian/Damian/11731.ts
+#EXTINF:-1,GR: GSTREAMS SYNTAGES ZAXAROPLASTIKHS
+http://217.23.1.3:6969/live/Damian/Damian/11722.ts
+#EXTINF:-1,GR: GSTREAMS WESTERN MOVIES
+http://217.23.1.3:6969/live/Damian/Damian/11721.ts
+#EXTINF:-1,GR: HISTORY HD
+http://217.23.1.3:6969/live/Damian/Damian/11736.ts
+#EXTINF:-1,GR: HUNTER TV
+http://217.23.1.3:6969/live/Damian/Damian/11729.ts
+#EXTINF:-1,GR: MAD CY
+http://217.23.1.3:6969/live/Damian/Damian/11709.ts
+#EXTINF:-1,GR: MOVIES GR SUBS 1
+http://217.23.1.3:6969/live/Damian/Damian/11762.ts
+#EXTINF:-1,GR: MOVIES GR SUBS 2
+http://217.23.1.3:6969/live/Damian/Damian/11761.ts
+#EXTINF:-1,GR: MOVIES GR SUBS 3
+http://217.23.1.3:6969/live/Damian/Damian/11760.ts
+#EXTINF:-1,GR: NAT GEO WILD
+http://217.23.1.3:6969/live/Damian/Damian/11727.ts
+#EXTINF:-1,GR: NATIONAL GEOGRAFIC HD
+http://217.23.1.3:6969/live/Damian/Damian/11726.ts
+#EXTINF:-1,GR: OTE CINEMA 2
+http://217.23.1.3:6969/live/Damian/Damian/11767.ts
+#EXTINF:-1,GR: OTE CINEMA 3
+http://217.23.1.3:6969/live/Damian/Damian/11766.ts
+#EXTINF:-1,GR: OTE CINEMA 4
+http://217.23.1.3:6969/live/Damian/Damian/11765.ts
+#EXTINF:-1,GR: PLUS CYPRUS
+http://217.23.1.3:6969/live/Damian/Damian/11710.ts
+#EXTINF:-1,GR: RIK 1
+http://217.23.1.3:6969/live/Damian/Damian/11716.ts
+#EXTINF:-1,GR: RIK 2
+http://217.23.1.3:6969/live/Damian/Damian/11715.ts
+#EXTINF:-1,GR: RIK SAT
+http://217.23.1.3:6969/live/Damian/Damian/11717.ts
+#EXTINF:-1,GR: SiGMA CYPRUS
+http://217.23.1.3:6969/live/Damian/Damian/11713.ts
+#EXTINF:-1,GR: SUNDANCE CHANNEL HD
+http://217.23.1.3:6969/live/Damian/Damian/11725.ts
+#EXTINF:-1,GR: SURVIVOR GREECE 2017
+http://217.23.1.3:6969/live/Damian/Damian/11720.ts
+#EXTINF:-1,GR: TRAVEL CHANNEL HD
+http://217.23.1.3:6969/live/Damian/Damian/11724.ts
+#EXTINF:-1,GR: VIASAT HISTORY
+http://217.23.1.3:6969/live/Damian/Damian/11723.ts
+#EXTINF:-1,GR: VILLAGE CINEMA HD
+http://217.23.1.3:6969/live/Damian/Damian/11763.ts
+#EXTINF:-1,GR:MEGA ONE CYPRUS
+http://217.23.1.3:6969/live/Damian/Damian/11714.ts
+#EXTINF:-1,GR : TV Mytilini
+http://217.23.1.3:6969/live/Damian/Damian/3318.ts

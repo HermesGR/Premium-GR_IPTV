@@ -40,6 +40,10 @@ http://46.166.148.101/live/demo/demo/4737.ts
 http://46.166.148.101/live/demo/demo/4736.ts
 #EXTINF:-1,OTE SPORT HIGHLIGHTS (GR)
 http://46.166.148.101/live/demo/demo/4735.ts
+#EXTINF:-1,EUROSPORT 1 (GR)
+http://cms.xtream-codes.org:8000/live/ordine4814/Mv2eO0FBmA/7331.ts
+#EXTINF:-1,EUROSPORT 2 (GR)
+http://cms.xtream-codes.org:8000/live/ordine4814/Mv2eO0FBmA/7332.ts
 #EXTINF:-1,MOTORVISION (GR)
 http://46.166.148.101/live/demo/demo/4719.ts
 #EXTINF:-1,OTE HISTORY (GR)

@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,GR: ZOUGL@
+#EXTINF:-1,GR: ZOUGLA
 http://217.23.1.3:6969/live/Damian/Damian/3305.ts
 #EXTINF:-1,GR: Vouli TV
 http://217.23.1.3:6969/live/Damian/Damian/3657.ts

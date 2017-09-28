@@ -1,35 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,OTE CINEMA 1 (GR)
-http://185.107.80.48:80/greek/ote1cinema/index.m3u8
-#EXTINF:-1,GR:Village
-http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9333.ts
-#EXTINF:-1,GR:Village HD
-http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9334.ts
-#EXTINF:-1,GR:Sundance
-http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9335.ts
-#EXTINF:-1,GR:Sundance HD
-http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9336.ts
-#EXTINF:-1,GR:Animal Planet
-http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9320.ts
-#EXTINF:-1,GR:Animal Planet HD
-http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9321.ts
-#EXTINF:-1,GR:Best Movies 1
-http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9351.ts
-#EXTINF:-1,GR:Best Movies 2
-http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9350.ts
-#EXTINF:-1,GR:Best Movies 3
-http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9349.ts
-#EXTINF:-1,GR:Best Movies 4
-http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9348.ts
-#EXTINF:-1,GR:Best Movies 5
-http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9347.ts
-#EXTINF:-1,GR:Best Movies 6
-http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9346.ts
-#EXTINF:-1,GR:CinemaGreek 1
-http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9353.ts
-#EXTINF:-1,GR:CinemaGreek 2
-http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9352.ts
 #EXTINF:-1,GR:Cosmote Sport 1 HD
 http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9418.ts
 #EXTINF:-1,GR:Cosmote Sport 2 HD
@@ -56,6 +26,28 @@ http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9313.ts
 http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9409.ts
 #EXTINF:-1,GR:TLC
 http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9315.ts
+#EXTINF:-1,OTE CINEMA 1 (GR)
+http://185.107.80.48:80/greek/ote1cinema/index.m3u8
+#EXTINF:-1,GR:Animal Planet
+http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9320.ts
+#EXTINF:-1,GR:Animal Planet HD
+http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9321.ts
+#EXTINF:-1,GR:Best Movies 1
+http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9351.ts
+#EXTINF:-1,GR:Best Movies 2
+http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9350.ts
+#EXTINF:-1,GR:Best Movies 3
+http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9349.ts
+#EXTINF:-1,GR:Best Movies 4
+http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9348.ts
+#EXTINF:-1,GR:Best Movies 5
+http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9347.ts
+#EXTINF:-1,GR:Best Movies 6
+http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9346.ts
+#EXTINF:-1,GR:CinemaGreek 1
+http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9353.ts
+#EXTINF:-1,GR:CinemaGreek 2
+http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9352.ts
 #EXTINF:-1,GR:Nat Geo HD
 http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9324.ts
 #EXTINF:-1,GR:Nat Geo Wild

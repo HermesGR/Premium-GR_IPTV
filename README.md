@@ -24,14 +24,10 @@ http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9314.ts
 http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9313.ts
 #EXTINF:-1,GR:TileSport TV
 http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9409.ts
-#EXTINF:-1,GR:TLC
-http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9315.ts
 #EXTINF:-1,OTE CINEMA 1 (GR)
 http://185.107.80.48:80/greek/ote1cinema/index.m3u8
-#EXTINF:-1,GR:Animal Planet
-http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9320.ts
-#EXTINF:-1,GR:Animal Planet HD
-http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9321.ts
+#EXTINF:-1,GR:TLC
+http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9315.ts
 #EXTINF:-1,GR:Best Movies 1
 http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9351.ts
 #EXTINF:-1,GR:Best Movies 2
@@ -48,6 +44,10 @@ http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9346.ts
 http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9353.ts
 #EXTINF:-1,GR:CinemaGreek 2
 http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9352.ts
+#EXTINF:-1,GR:Animal Planet
+http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9320.ts
+#EXTINF:-1,GR:Animal Planet HD
+http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9321.ts
 #EXTINF:-1,GR:Nat Geo HD
 http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9324.ts
 #EXTINF:-1,GR:Nat Geo Wild
@@ -150,6 +150,8 @@ http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9389.ts
 http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9387.ts
 #EXTINF:-1,GR:ACTION 24
 http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9386.ts
+
+
 #EXTINF:-1,GR:Alpha Cyprus
 http://echootv.tv:2086/live/showsat_sC0hUb/6O08mlj4/9384.ts
 #EXTINF:-1,GR:EXTRA

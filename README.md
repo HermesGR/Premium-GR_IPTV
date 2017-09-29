@@ -2,9 +2,6 @@
 
 #EXTINF:-1,OTE CINEMA 1 (GR)
 http://185.107.80.48:80/greek/ote1cinema/index.m3u8
-
-
-
 #EXTINF:-1,EuroSport 1
 http://173.212.226.236:8888/live/www.albaniaiptv.net/freeiptv/21.ts
 #EXTINF:-1,EuroSport 2

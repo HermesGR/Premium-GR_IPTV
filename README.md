@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,OTE CINEMA 1 (GR)
+#EXTINF:-1,OTE Cinema 1 (GR)
 http://185.107.80.48:80/greek/ote1cinema/index.m3u8
 #EXTINF:-1,EuroSport 1
 http://173.212.226.236:8888/live/www.albaniaiptv.net/freeiptv/21.ts
@@ -44,6 +44,6 @@ http://173.212.226.236:8888/live/www.albaniaiptv.net/freeiptv/9.ts
 http://173.212.226.236:8888/live/www.albaniaiptv.net/freeiptv/10.ts
 #EXTINF:-1,Diema Sport HD
 http://173.212.226.236:8888/live/www.albaniaiptv.net/freeiptv/19.ts
-#EXTINF:-1,Nova Sport (BG)
+#EXTINF:-1,Nova Sport (ALB)
 http://173.212.226.236:8888/live/www.albaniaiptv.net/freeiptv/20.ts
 

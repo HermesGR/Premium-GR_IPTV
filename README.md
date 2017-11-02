@@ -1,22 +1,41 @@
 #EXTM3U
+
+#EXTINF:-1, OTE Cinema 1 HD     
+http://51.15.161.153:1557/live/mustaf/mustafa/11300.ts
+#EXTINF:-1, OTE Cinema 2 HD     
+http://51.15.161.153:1557/live/mustaf/mustafa/11301.ts
+#EXTINF:-1, OTE Cinema 3 HD     
+http://51.15.161.153:1557/live/mustaf/mustafa/11302.ts
+#EXTINF:-1, OTE Sport 1 HD     
+http://51.15.161.153:1557/live/mustaf/mustafa/11304.ts
+#EXTINF:-1, OTE Sport 1 HD     
+http://51.15.161.153:1557/live/mustaf/mustafa/11304.ts
+#EXTINF:-1, OTE Sport 1 HD     
+http://51.15.161.153:1557/live/mustaf/mustafa/11304.ts
+#EXTINF:-1, OTE Sport 2 HD     
+http://51.15.161.153:1557/live/mustaf/mustafa/11305.ts
+#EXTINF:-1, OTE Sport 3 HD     
+http://51.15.161.153:1557/live/mustaf/mustafa/11306.ts
+#EXTINF:-1, OTE Sport 4 HD     
+http://51.15.161.153:1557/live/mustaf/mustafa/11307.ts
+#EXTINF:-1, OTE Sport 8 HD     
+http://51.15.161.153:1557/live/mustaf/mustafa/11311.ts
+#EXTINF:-1, Eurosport 1     
+http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5260.ts
+#EXTINF:-1, Eurosport 2     
+http://51.15.161.153:1557/live/mustaf/mustafa/2315.ts
+#EXTINF:-1, Animal Planet     
+http://51.15.161.153:1557/live/mustaf/mustafa/6284.ts
+#EXTINF:-1, National Geographic     
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4069.ts
 #EXTINF:-1, ANT1     
 http://51.15.161.153:1557/live/mustaf/mustafa/2326.ts
 #EXTINF:-1, ERT WORLD     
 http://51.15.161.153:1557/live/mustaf/mustafa/4494.ts
 #EXTINF:-1, Lampsi TV     
 http://51.15.161.153:1557/live/mustaf/mustafa/4521.ts
-#EXTINF:-1, OTE Sport 3 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/11306.ts
-#EXTINF:-1, OTE Cinema 1 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/11300.ts
 #EXTINF:-1, Zougla Tv     
 http://51.15.161.153:1557/live/mustaf/mustafa/2329.ts
-#EXTINF:-1, OTE Sport 8 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/11311.ts
-#EXTINF:-1, OTE Sport 1 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/11304.ts
-#EXTINF:-1, OTE Sport 1 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/11304.ts
 #EXTINF:-1, CARTOONS     
 http://51.15.161.153:1557/live/mustaf/mustafa/4566.ts
 #EXTINF:-1, Magic TV     
@@ -37,16 +56,12 @@ http://51.15.161.153:1557/live/mustaf/mustafa/4536.ts
 http://51.15.161.153:1557/live/mustaf/mustafa/4496.ts
 #EXTINF:-1, Alpha     
 http://51.15.161.153:1557/live/mustaf/mustafa/2327.ts
-#EXTINF:-1, OTE Cinema 3 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/11302.ts
 #EXTINF:-1, ERT1     
 http://51.15.161.153:1557/live/mustaf/mustafa/2318.ts
 #EXTINF:-1, MEGA        
 http://51.15.161.153:1557/live/mustaf/mustafa/4542.ts
 #EXTINF:-1, Mega     
 http://51.15.161.153:1557/live/mustaf/mustafa/2309.ts
-#EXTINF:-1, OTE Sport 2 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/11305.ts
 #EXTINF:-1, SKAI        
 http://51.15.161.153:1557/live/mustaf/mustafa/4540.ts
 #EXTINF:-1, Skai     
@@ -59,14 +74,10 @@ http://51.15.161.153:1557/live/mustaf/mustafa/4495.ts
 http://51.15.161.153:1557/live/mustaf/mustafa/4546.ts
 #EXTINF:-1, Thing Green     
 http://51.15.161.153:1557/live/mustaf/mustafa/4523.ts
-#EXTINF:-1, OTE Sport 1 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/11304.ts
 #EXTINF:-1, ERT3  CY     
 http://51.15.161.153:1557/live/mustaf/mustafa/4538.ts
 #EXTINF:-1, SPICY Greek     
 http://51.15.161.153:1557/live/mustaf/mustafa/4551.ts
-#EXTINF:-1, OTE Sport 4 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/11307.ts
 #EXTINF:-1, RIK Sat     
 http://51.15.161.153:1557/live/mustaf/mustafa/3728.ts
 #EXTINF:-1, Ant1 HD     
@@ -77,8 +88,6 @@ http://51.15.161.153:1557/live/mustaf/mustafa/4543.ts
 http://51.15.161.153:1557/live/mustaf/mustafa/4478.ts
 #EXTINF:-1, Tv Filopoli     
 http://51.15.161.153:1557/live/mustaf/mustafa/4490.ts
-#EXTINF:-1, OTE Cinema 2 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/11301.ts
 #EXTINF:-1, SPICY TV 2     
 http://51.15.161.153:1557/live/mustaf/mustafa/4549.ts
 #EXTINF:-1, BEST TV     
@@ -89,14 +98,10 @@ http://51.15.161.153:1557/live/mustaf/mustafa/2312.ts
 http://51.15.161.153:1557/live/mustaf/mustafa/3727.ts
 #EXTINF:-1, NetTV Toronto     
 http://51.15.161.153:1557/live/mustaf/mustafa/3732.ts
-#EXTINF:-1, Animal Planet     
-http://51.15.161.153:1557/live/mustaf/mustafa/6284.ts
 #EXTINF:-1, Alpha Music     
 http://51.15.161.153:1557/live/mustaf/mustafa/4474.ts
 #EXTINF:-1, STAR HD     
 http://51.15.161.153:1557/live/mustaf/mustafa/4470.ts
-#EXTINF:-1,TGRT Haber HD TR     
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4473.ts
 #EXTINF:-1, Reload Bizz     
 http://51.15.161.153:1557/live/mustaf/mustafa/4544.ts
 #EXTINF:-1, TV1 Siros     
@@ -161,7 +166,7 @@ http://51.15.161.153:1557/live/mustaf/mustafa/4559.ts
 http://51.15.161.153:1557/live/mustaf/mustafa/4485.ts
 #EXTINF:-1, EXTRA     
 http://51.15.161.153:1557/live/mustaf/mustafa/2314.ts
-#EXTINF:-1, TRT Greek   [656x496]
+#EXTINF:-1, TRT Greek   
 http://51.15.161.153:1557/live/mustaf/mustafa/2310.ts
 #EXTINF:-1, VOULI     
 http://51.15.161.153:1557/live/mustaf/mustafa/2297.ts
@@ -169,14 +174,12 @@ http://51.15.161.153:1557/live/mustaf/mustafa/2297.ts
 http://51.15.161.153:1557/live/mustaf/mustafa/1648.ts
 #EXTINF:-1, RIK 1     
 http://51.15.161.153:1557/live/mustaf/mustafa/3736.ts
-#EXTINF:-1, Euronews Gr   [320x192]
+#EXTINF:-1, Euronews Gr   
 http://51.15.161.153:1557/live/mustaf/mustafa/3734.ts
 #EXTINF:-1, Macedonia TV HD     
 http://51.15.161.153:1557/live/mustaf/mustafa/4594.ts
 #EXTINF:-1, New Tv     
 http://51.15.161.153:1557/live/mustaf/mustafa/2320.ts
-#EXTINF:-1, Eurosport 2     
-http://51.15.161.153:1557/live/mustaf/mustafa/2315.ts
 #EXTINF:-1, DNA TV     
 http://51.15.161.153:1557/live/mustaf/mustafa/4571.ts
 #EXTINF:-1, CineFil     
@@ -199,17 +202,15 @@ http://51.15.161.153:1557/live/mustaf/mustafa/2319.ts
 http://51.15.161.153:1557/live/mustaf/mustafa/4592.ts
 #EXTINF:-1, Alpha     
 http://xtreme.webhop.me:8000/live/ampadu/ampadu/4074.ts
-#EXTINF:-1, Ant1 Cy   [1536x864]
+#EXTINF:-1, Ant1 Cy   
 http://xtreme.webhop.me:8000/live/ampadu/ampadu/4078.ts
 #EXTINF:-1, ERT 1     
 http://xtreme.webhop.me:8000/live/ampadu/ampadu/4072.ts
 #EXTINF:-1, KPHTH TV     
 http://xtreme.webhop.me:8000/live/ampadu/ampadu/4064.ts
-#EXTINF:-1, National Geographic     
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4069.ts
 #EXTINF:-1, Skai Greece     
 http://xtreme.webhop.me:8000/live/ampadu/ampadu/4068.ts
-#EXTINF:-1, Star   [720x560]
+#EXTINF:-1, Star  
 http://xtreme.webhop.me:8000/live/ampadu/ampadu/4076.ts
 #EXTINF:-1, Syros TV1     
 http://xtreme.webhop.me:8000/live/ampadu/ampadu/4059.ts
@@ -219,9 +220,7 @@ http://xtreme.webhop.me:8000/live/ampadu/ampadu/4060.ts
 http://xtreme.webhop.me:8000/live/ampadu/ampadu/4067.ts
 #EXTINF:-1, Zougla TV     
 http://xtreme.webhop.me:8000/live/ampadu/ampadu/4062.ts
-#EXTINF:-1, Eurosport 1     
-http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5260.ts
-#EXTINF:-1, KONTRA   [720x400]
+#EXTINF:-1, KONTRA   
 http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2366.ts
 #EXTINF:-1, MESSINIA TV     
 http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5257.ts
@@ -229,7 +228,7 @@ http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5257.ts
 http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5258.ts
 #EXTINF:-1, SAMIAKI     
 http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5255.ts
-#EXTINF:-1, Sigma Cy   [1536x864]
+#EXTINF:-1, Sigma Cy   
 http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2361.ts
 #EXTINF:-1, Vouli     
 http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3207.ts

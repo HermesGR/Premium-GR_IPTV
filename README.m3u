@@ -64,6 +64,8 @@ http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9331.ts
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9306.ts
 #EXTINF:-1,GR:Toronto TV
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9358.ts
+#EXTINF:-1,GR:Nickelodeon
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9312.ts
 #EXTINF:-1,GR:Disney Channel
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9311.ts
 #EXTINF:-1,GR:Disney Junior
@@ -172,7 +174,6 @@ http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9388.ts
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9389.ts
 #EXTINF:-1,GR:Acheloos TV
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9387.ts
-
 #EXTINF:-1,GR:Alpha Cyprus
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9384.ts
 #EXTINF:-1,GR:Capital Cyprus
@@ -205,8 +206,6 @@ http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9370.ts
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9397.ts
 #EXTINF:-1,GR:Net TV
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9396.ts
-#EXTINF:-1,GR:Nickelodeon
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9312.ts
 #EXTINF:-1,GR:Nova
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9394.ts
 #EXTINF:-1,GR:Omega TV

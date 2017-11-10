@@ -1,20 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1,GR:Cosmote Sport 1 HD
+#EXTINF:-1,Cosmote Sport 1 HD
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9418.ts
-#EXTINF:-1,GR:Cosmote Sport 2 HD
+#EXTINF:-1,Cosmote Sport 2 HD
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9417.ts
-#EXTINF:-1,GR:Cosmote Sport 3 HD
+#EXTINF:-1,Cosmote Sport 3 HD
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9416.ts
-#EXTINF:-1,GR:Cosmote Sport 4 HD
+#EXTINF:-1,Cosmote Sport 4 HD
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9415.ts
-#EXTINF:-1,GR:Cosmote Sport 5 HD
+#EXTINF:-1,Cosmote Sport 5 HD
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9414.ts
-#EXTINF:-1,GR:Cosmote Sport 6 HD
+#EXTINF:-1,Cosmote Sport 6 HD
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9413.ts
-#EXTINF:-1,GR:Cosmote Sport 7 HD
+#EXTINF:-1,Cosmote Sport 7 HD
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9412.ts
-#EXTINF:-1,GR:Cosmote Sport 8 HD
+#EXTINF:-1,Cosmote Sport 8 HD
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9411.ts
 #EXTINF:-1,Cosmote Sport 1 HD (BACKUP)
 http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10794.ts
@@ -32,15 +32,15 @@ http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10789.ts
 http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10788.ts
 #EXTINF:-1,Cosmote Sport 8 HD (BACKUP)
 http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10787.ts
-#EXTINF:-1,GR:EuroSport 1
+#EXTINF:-1,EuroSport 1
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9410.ts
-#EXTINF:-1,GR:TileSport TV
+#EXTINF:-1,TileSport TV
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9409.ts
-#EXTINF:-1,GR:ACTION 24
+#EXTINF:-1,ACTION 24
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9386.ts
-#EXTINF:-1,GR:Fishing Ellinika
+#EXTINF:-1,Fishing Ellinika
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9314.ts
-#EXTINF:-1,GR:Hunting Ellinika
+#EXTINF:-1,Hunting Ellinika
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9313.ts
 #EXTINF:-1,Cosmote Cinema 1 FHD GR
 http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/12967.ts

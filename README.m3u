@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,Cosmote Sport 1 HD
+#EXTINF:-1,tvg-ID="OTESport1.gr" tvg-name="GR | COSMOTE SPORT 1" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 1
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9418.ts
 #EXTINF:-1,Cosmote Sport 2 HD
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9417.ts

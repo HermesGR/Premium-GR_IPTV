@@ -36,8 +36,6 @@ http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10787.ts
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9410.ts
 #EXTINF:-1,TileSport TV
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9409.ts
-#EXTINF:-1,ACTION 24
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9386.ts
 #EXTINF:-1,Fishing Ellinika
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9314.ts
 #EXTINF:-1,Hunting Ellinika
@@ -244,6 +242,8 @@ http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9364.ts
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9363.ts
 #EXTINF:-1,GR:Sigma
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9362.ts
+#EXTINF:-1,ACTION 24
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9386.ts
 #EXTINF:-1,GR:Vouli
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9391.ts
 #EXTINF:-1,GR:Zougla

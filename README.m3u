@@ -88,7 +88,7 @@ http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9344.ts
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9343.ts
 #EXTINF:-1,tvg-ID="animalplanet.gr" tvg-name="GR | ANIMAL PLANET" tvg-logo="http://epictv.de/de/animalplanet.png" group-title="GREECE",GR | ANIMAL PLANET
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9321.ts
-#EXTINF:-1,GR:Animal Planet
+#EXTINF:-1,tvg-ID="animalplanet.gr" tvg-name="GR | ANIMAL PLANET" tvg-logo="http://epictv.de/de/animalplanet.png" group-title="GREECE",GR | ANIMAL PLANET
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9320.ts
 #EXTINF:-1,tvg-ID="natgeo.gr" tvg-name="GR | NAT GEO" tvg-logo="http://nextrack.atspace.com/de/NatGeoHD.png" group-title="GREECE",GR | NAT GEO
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9324.ts

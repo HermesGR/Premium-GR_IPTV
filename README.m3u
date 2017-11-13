@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+#EXTINF:-1,Nova Sport 1 HD
+http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/14557.ts
+#EXTINF:-1,OTE Sports Highlights HD
+http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/13721.ts
 #EXTINF:-1,tvg-ID="OTESport1.gr" tvg-name="GR | COSMOTE SPORT 1" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 1
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/10794.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="OTESport2.gr" tvg-name="GR | COSMOTE SPORT 2" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 2

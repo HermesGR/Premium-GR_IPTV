@@ -1,37 +1,21 @@
 #EXTM3U
 
 #EXTINF:-1,tvg-ID="OTESport1.gr" tvg-name="GR | COSMOTE SPORT 1" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 1
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9418.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/10794.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="OTESport2.gr" tvg-name="GR | COSMOTE SPORT 2" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 2
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9417.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/10793.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="OTESport3.gr" tvg-name="GR | COSMOTE SPORT 3" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 3
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9416.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/10792.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="OTESport4.gr" tvg-name="GR | COSMOTE SPORT 4" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 4
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9415.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/10791.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="OTESport5.gr" tvg-name="GR | COSMOTE SPORT 5" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 5
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9414.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/10790.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="OTESport6.gr" tvg-name="GR | COSMOTE SPORT 6" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 6
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9413.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/10789.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="OTESport7.gr" tvg-name="GR | COSMOTE SPORT 7" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 7
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9412.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/10788.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="OTESport8.gr" tvg-name="GR | COSMOTE SPORT 8" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 8
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9411.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport1.gr" tvg-name="GR | COSMOTE SPORT 1" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 1
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10794.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport2.gr" tvg-name="GR | COSMOTE SPORT 2" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 2
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10793.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport3.gr" tvg-name="GR | COSMOTE SPORT 3" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 3
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10792.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport4.gr" tvg-name="GR | COSMOTE SPORT 4" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 4
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10791.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport5.gr" tvg-name="GR | COSMOTE SPORT 5" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 5
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10790.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport6.gr" tvg-name="GR | COSMOTE SPORT 6" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 6
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10789.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport7.gr" tvg-name="GR | COSMOTE SPORT 7" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 7
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10788.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport8.gr" tvg-name="GR | COSMOTE SPORT 8" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 8
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10787.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/10787.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="Eurosport.int" tvg-name="GR | EUROSPORT 1" tvg-logo="http://epictv.de/de/Eurosport1de.png" group-title="GREECE",GR | EUROSPORT 1
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9410.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,TileSport TV
@@ -41,13 +25,13 @@ plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQ
 #EXTINF:-1,Hunting Ellinika
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9313.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="OTECinema1.gr" tvg-name="GR | COSMOTE CINEMA 1" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE CINEMA 1
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/12967.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/12967.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="OTECinema2.gr" tvg-name="GR | COSMOTE CINEMA 2" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE CINEMA 2
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/12966.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/12966.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="OTESport1.gr" tvg-name="GR | COSMOTE CINEMA 3" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE CINEMA 3
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/12965.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/12965.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="OTECinema4.gr" tvg-name="GR | COSMOTE CINEMA 4" tvg-logo="http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE CINEMA 4
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/12964.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/12964.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="" tvg-name="GR | EPIC MOVIES 1" tvg-logo="http://nextrack.atspace.com/gr/movies.png" group-title="GREECE",GR | EPIC MOVIES 1
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9351.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="" tvg-name="GR | EPIC MOVIES 2" tvg-logo="http://nextrack.atspace.com/gr/movies.png" group-title="GREECE",GR | EPIC MOVIES 2

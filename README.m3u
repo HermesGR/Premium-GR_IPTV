@@ -24,7 +24,7 @@ plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/107
 #EXTINF:-1,tvg-ID="Eurosport.int" tvg-name="GR | EUROSPORT 1" tvg-logo="http://epictv.de/de/Eurosport1de.png" group-title="GREECE",GR | EUROSPORT 1
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/5260.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,TileSport TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9409.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/76911.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Fishing Ellinika
 plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/13746.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Hunting Ellinika
@@ -134,7 +134,7 @@ plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/235
 #EXTINF:-1,tvg-ID="EPT2.gr" tvg-name="GR | ERT 2" tvg-logo="http://epictv.de/gr/ert2.png" group-title="GREECE",GR | ERT 2
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/2353.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="EPT3.gr" tvg-name="GR | ERT 3" tvg-logo="http://epictv.de/gr/ert3.png" group-title="GREECE",GR | ERT 3
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9405.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/76922.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="ETV.gr" tvg-name="GR | EPSILON" tvg-logo="http://epictv.de/gr/epsilon.png" group-title="GREECE",GR | EPSILON
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/2356.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="Macedonia.gr" tvg-name="GR | MACEDONIA TV" tvg-logo="http://epictv.de/gr/maktv.png" group-title="GREECE",GR | MACEDONIA TV
@@ -170,7 +170,7 @@ plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQ
 #EXTINF:-1,GR:Kriti TV
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/5262.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:MAD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9372.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/76917.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:EXTRA CYPRUS
 plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/13748.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:MAD TV Cyprus
@@ -210,7 +210,7 @@ plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/235
 #EXTINF:-1,GR:Vouli
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/3207.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Zougla
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9390.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/76909.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="" tvg-name="GR | EPIC MOVIES 1" tvg-logo="http://nextrack.atspace.com/gr/movies.png" group-title="GREECE",GR | EPIC MOVIES 1
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9351.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,tvg-ID="" tvg-name="GR | EPIC MOVIES 2" tvg-logo="http://nextrack.atspace.com/gr/movies.png" group-title="GREECE",GR | EPIC MOVIES 2

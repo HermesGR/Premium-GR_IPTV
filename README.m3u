@@ -1,47 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,GR:4E Star
-plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9388.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:AB Channel
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9389.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Acheloos TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9387.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:ACTION 24
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9386.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Alpha Cyprus
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9384.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Alpha HD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9385.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Animal Planet
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9320.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Animal Planet HD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9321.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:ANT1 HD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9383.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:ART Channel
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9382.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Baby TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9307.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Best Movies 1
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9351.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Best Movies 2
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9350.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Best Movies 3
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9349.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Best Movies 4
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9348.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Best Movies 5
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9347.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Best Movies 6
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9346.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Capital Cyprus
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9381.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:CHANNEL 9
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9380.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Cinemaeek 1
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9353.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Cinemaeek 2
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9352.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Cosmote Sport 1 HD
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9418.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Cosmote Sport 2 HD
@@ -58,8 +16,22 @@ plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQ
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9412.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Cosmote Sport 8 HD
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9411.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Creta Web TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9379.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:EuroSport 1
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9410.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Fishing Ellinika
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9314.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Hunting Ellinika
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9313.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Animal Planet
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9320.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Animal Planet HD
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9321.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Travel Channel HD
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9316.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:OTE History
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9318.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Viasat History
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9317.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Discovery Channel
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9330.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Discovery ID
@@ -70,38 +42,30 @@ plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQ
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9326.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Discovery ShowCase HD
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9329.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Disney Channel
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9311.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Disney Junior
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9310.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Disney XD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9309.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:DS
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9378.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:E!
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9331.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Epirus TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9332.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:EPSILON
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9402.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Epsilon HD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9403.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:ERT 1
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9407.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:ERT 2
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9406.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:ERT 3
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9405.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:ERT HD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9408.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:EuroNews
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9306.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:EuroSport 1
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9410.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:EXTRA
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9377.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Fishing Ellinika
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9314.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:History HD
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9319.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Nat Geo HD
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9324.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Nat Geo Wild
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9322.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9323.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Best Movies 1
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9351.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Best Movies 2
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9350.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Best Movies 3
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9349.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Best Movies 4
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9348.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Best Movies 5
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9347.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Best Movies 6
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9346.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Cinemagreek 1
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9353.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Cinemagreek 2
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9352.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Greek Cinema 80s 1
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9345.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Greek Cinema 80s 2
@@ -120,16 +84,20 @@ plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQ
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9338.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Greek Series 2
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9337.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:History HD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9319.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Hunting Ellinika
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9313.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Ioannina TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9375.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Disney Channel
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9311.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Disney Junior
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9310.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Disney XD
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9309.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:DS
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9378.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Baby TV
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9307.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:SMILE
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9359.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Kids 1
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9305.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Kids 10
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9297.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Kids 2
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9304.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Kids 3
@@ -144,6 +112,62 @@ plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQ
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9299.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Kids 9
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9298.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Kids 10
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9297.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:SKAI
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9360.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Skai HD
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9361.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:STAR
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9392.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Star HD
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9393.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Sundance HD
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9336.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:E!
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9331.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Alpha HD
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9385.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:ANT1 HD
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9383.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:EPSILON
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9402.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Epsilon HD
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9403.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:ERT 1
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9407.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:ERT 2
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9406.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:ERT 3
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9405.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:ERT HD
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9408.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:EuroNews
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9306.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:ART Channel
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9382.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:4E Star
+plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9388.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:AB Channel
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9389.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Acheloos TV
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9387.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:ACTION 24
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9386.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Alpha Cyprus
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9384.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Capital Cyprus
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9381.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:CHANNEL 9
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9380.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Creta Web TV
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9379.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Epirus TV
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9332.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:EXTRA
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9377.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GR:Ioannina TV
+plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9375.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:KONTRA TV
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9376.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Krhth Tv
@@ -164,12 +188,6 @@ plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQ
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9398.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:MESSINIA TV
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9370.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Nat Geo HD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9324.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Nat Geo Wild
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9322.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9323.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Nea TV
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9397.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Net TV
@@ -180,8 +198,6 @@ plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQ
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9394.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Omega TV
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9395.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:OTE History
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9318.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:RIK SAT
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9369.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:RISE
@@ -192,28 +208,12 @@ plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQ
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9363.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Sigma
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9362.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:SKAI
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9360.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Skai HD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9361.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:SMILE
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9359.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:STAR
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9392.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Star HD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9393.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Sundance HD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9336.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:TileSport TV
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9409.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:TLC
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9315.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Toronto TV
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9358.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Travel Channel HD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9316.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Viasat History
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9317.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Vouli
 plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9391.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:Zougla

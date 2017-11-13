@@ -1,567 +1,567 @@
 #EXTM3U
-#EXTINF:-1, OTE Sport 4 HD    [1920x1080]
+#EXTINF:-1, OTE Sport 4 HD     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/11307.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT WORLD    [1280x720]
+#EXTINF:-1, ERT WORLD      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4494.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT1 (+10)    [720x576]
+#EXTINF:-1, ERT1    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4535.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Alpha CY    [768x432]
+#EXTINF:-1, Alpha CY       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4543.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, OTE Cinema 1 HD    [1920x1080]
+#EXTINF:-1, OTE Cinema 1 HD     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/11300.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, MEGA COSMOS    [720x480]
+#EXTINF:-1, MEGA COSMOS        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4495.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Star TV Live    [720x576]
+#EXTINF:-1, Star TV Live       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4595.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ANT1    [1280x720]
+#EXTINF:-1, ANT1      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2326.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, STAR HD    [720x576]
+#EXTINF:-1, STAR HD       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4470.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Alpha Music    [1920x1080]
+#EXTINF:-1, Alpha Music     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4474.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Zougl@ Tv    [640x368]
+#EXTINF:-1, Zougla Tv        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2329.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Skai    [720x576]
+#EXTINF:-1, Skai       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2303.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Magic TV    [1920x1088]
+#EXTINF:-1, Magic TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4492.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT1    [720x576]
+#EXTINF:-1, ERT1       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2318.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, BEST TV    [1280x720]
+#EXTINF:-1, BEST TV      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4486.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT1  CY    [720x576]
+#EXTINF:-1, ERT1  CY       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4536.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT3  CY    [720x576]
+#EXTINF:-1, ERT3  CY       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4538.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, RIK    [432x240]
+#EXTINF:-1, RIK        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/3729.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, NetTV Toronto    [864x480]
+#EXTINF:-1, NetTV Toronto        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/3732.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, RIK Sat    [480x368]
+#EXTINF:-1, RIK Sat        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/3728.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, SKAI (+10)    [720x576]
+#EXTINF:-1, SKAI       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4540.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Alpha (+10)    [720x576]
+#EXTINF:-1, Alpha      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4546.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, TV1 Siros    [720x576]
+#EXTINF:-1, TV1 Siros       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2959.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, MegaOne    [768x432]
+#EXTINF:-1, MegaOne       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/3722.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, SPICY TV 2    [640x272]
+#EXTINF:-1, SPICY TV 2        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4549.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, CARTOONS    [640x352]
+#EXTINF:-1, CARTOONS        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4566.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Reload Bizz    [864x480]
+#EXTINF:-1, Reload Bizz        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4544.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1, ANT1 CY    [704x544]
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4484.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, OTE Cinema 3 HD    [1920x1080]
+#EXTINF:-1, OTE Cinema 3 HD     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/11302.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, OTE Sport 3 HD    [1920x1080]
+#EXTINF:-1, OTE Sport 3 HD     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/11306.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Tv Filopoli    [640x368]
+#EXTINF:-1, Tv Filopoli        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4490.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, OTE Sport 8 HD    [1920x1080]
+#EXTINF:-1, OTE Sport 8 HD     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/11311.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, MEGA (+7)    [720x576]
+#EXTINF:-1, MEGA      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4541.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Alpha    [640x368]
+#EXTINF:-1, Alpha        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2327.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Alpha Sat    [720x480]
+#EXTINF:-1, Alpha Sat        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4496.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, SPICY Greek    [640x368]
+#EXTINF:-1, SPICY Greek        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4551.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, NEA TV    [1024x576]
+#EXTINF:-1, NEA TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4477.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Lampsi TV    [768x432]
+#EXTINF:-1, Lampsi TV       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4521.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, CRETA TV    [480x368]
+#EXTINF:-1, CRETA TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4478.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Mega    [720x576]
+#EXTINF:-1, Mega       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2309.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, OTE Cinema 2 HD    [1920x1080]
+#EXTINF:-1, OTE Cinema 2 HD     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/11301.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Animal Planet    [960x544]
+#EXTINF:-1, Animal Planet        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/6284.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Thing Green    [640x352]
+#EXTINF:-1, Thing Green        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4523.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, OTE Sport 2 HD    [1920x1080]
+#EXTINF:-1, OTE Sport 2 HD     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/11305.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Ant1 HD    [720x576]
+#EXTINF:-1, Ant1 HD       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/3731.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, MEGA (+10)    [720x576]
+#EXTINF:-1, MEGA     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4542.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, KPHTI TV    [864x480]
+#EXTINF:-1, KPHTI TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2312.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, AB Channel    [720x576]
+#EXTINF:-1, AB Channel       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/3726.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Action 24    [544x304]
+#EXTINF:-1, Action 24  
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/3727.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,TGRT Haber HD TR    [1920x1080]
+#EXTINF:-1,TGRT Haber HD TR     
 plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4473.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Makedonia Gr    [720x576]
+#EXTINF:-1, Makedonia Gr       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/3723.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, OTE Sport 1 HD    [1920x1080]
+#EXTINF:-1, OTE Sport 1 HD     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/11304.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, SAMIAKI    [320x240]
+#EXTINF:-1, SAMIAKI   
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2305.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, MESSINIA TV    [640x368]
+#EXTINF:-1, MESSINIA TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2308.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, BlueSky    [720x416]
+#EXTINF:-1, BlueSky   
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/1642.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Four Wheels TV    [1280x720]
+#EXTINF:-1, Four Wheels TV      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2301.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, EPSILON TV (+7)    [720x576]
+#EXTINF:-1, EPSILON TV       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4567.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Start TV    [512x288]
+#EXTINF:-1, Start TV    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2313.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, EPSILON TV (+10)    [720x576]
+#EXTINF:-1, EPSILON TV     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4568.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Horse Races    [1920x1080]
+#EXTINF:-1, Horse Races     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/3730.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Volcano TV santorini    [1280x720]
+#EXTINF:-1, Volcano TV santorini      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4562.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, West Channel    [304x240]
+#EXTINF:-1, West Channel   
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/3738.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Fox Tv    [464x368]
+#EXTINF:-1, Fox Tv   
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4483.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, KANALI 6    [320x240]
+#EXTINF:-1, KANALI 6   
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4473.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, IONIAN TV    [1280x720]
+#EXTINF:-1, IONIAN TV      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4493.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, HellasTV    [864x480]
+#EXTINF:-1, HellasTV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4491.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, SPICY TV    [864x480]
+#EXTINF:-1, SPICY TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4548.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, FarosOnAir    [864x480]
+#EXTINF:-1, FarosOnAir        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4565.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, SPICY TV CINEMANIA    [640x272]
+#EXTINF:-1, SPICY TV CINEMANIA        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4570.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Kids TV    [640x480]
+#EXTINF:-1, Kids TV    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4569.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Reload    [640x368]
+#EXTINF:-1, Reload        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4552.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Ipiros Tv 1    [1920x1080]
+#EXTINF:-1, Ipiros Tv 1     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2307.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Cannali Musiki    [864x480]
+#EXTINF:-1, Cannali Musiki        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/3733.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, MAD GR    [608x480]
+#EXTINF:-1, MAD GR    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/3724.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Ellinikos Fm TV    [960x544]
+#EXTINF:-1, Ellinikos Fm TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2321.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, New generation TV    [640x368]
+#EXTINF:-1, New generation TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4555.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, SuperStar RTV    [512x288]
+#EXTINF:-1, SuperStar RTV   
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4559.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Spir Tv    [512x288]
+#EXTINF:-1, Spir Tv    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4485.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, EXTRA    [720x576]
+#EXTINF:-1, EXTRA       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2314.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, TRT Greek    [656x496]
+#EXTINF:-1, TRT Greek    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2310.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, VOULI    [640x368]
+#EXTINF:-1, VOULI        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2297.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, TV100    [640x480]
+#EXTINF:-1, TV100    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/1648.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, RIK 1    [1920x1080]
+#EXTINF:-1, RIK 1     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/3736.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Euronews Gr    [320x192]
+#EXTINF:-1, Euronews Gr    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/3734.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Macedonia TV HD    [1920x1088]
+#EXTINF:-1, Macedonia TV HD        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4594.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, New Tv    [1920x1080]
+#EXTINF:-1, New Tv     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2320.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Eurosport 2    [720x576]
+#EXTINF:-1, Eurosport 2       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2315.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, DNA TV    [720x416]
+#EXTINF:-1, DNA TV   
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4571.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, CineFil    [1280x720]
+#EXTINF:-1, CineFil      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4557.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, JayZeeHD    [1920x1080]
+#EXTINF:-1, JayZeeHD     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2325.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Tile Musiki    [1920x1080]
+#EXTINF:-1, Tile Musiki     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4524.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, DIKTYO    [1920x1080]
+#EXTINF:-1, DIKTYO     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2298.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Adams Beach Hotel CY    [1920x1080]
+#EXTINF:-1, Adams Beach Hotel CY     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/3735.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Epiloges Tv    [1920x1080]
+#EXTINF:-1, Epiloges Tv     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/3740.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT3    [720x576]
+#EXTINF:-1, ERT3       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2319.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Smile    [720x576]
+#EXTINF:-1, Smile       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/3721.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Cinemania    [1920x1080]
+#EXTINF:-1, Cinemania     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4592.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT2    [720x576]
+#EXTINF:-1, ERT2       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/2317.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT HD    [1280x720]
+#EXTINF:-1, ERT HD      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/mustaf/mustafa/4539.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT 1    [1280x720]
+#EXTINF:-1, ERT 1      
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4072.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ANT1    [1920x1080]
+#EXTINF:-1, ANT1     
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4075.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Skai Greece    [720x576]
+#EXTINF:-1, Skai Greece       
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4068.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Mega    [720x576]
+#EXTINF:-1, Mega       
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4077.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, National Geographic    [1280x720]
+#EXTINF:-1, National Geographic      
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4069.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Euronews    [1920x1080]
+#EXTINF:-1, Euronews     
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4070.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, MAD TV    [1920x1080]
+#EXTINF:-1, MAD TV     
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4071.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Ant1 Cy    [1920x1080]
+#EXTINF:-1, Ant1 Cy     
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4078.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Zougla TV    [640x368]
+#EXTINF:-1, Zougla TV        
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4062.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Zougla    [720x576]
+#EXTINF:-1, Zougla       
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4067.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Sbc    [1920x1080]
+#EXTINF:-1, Sbc     
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4073.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Nea    [1920x1080]
+#EXTINF:-1, Nea     
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4063.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, KPHTH TV    [1920x1080]
+#EXTINF:-1, KPHTH TV     
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4064.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, History Channel    [1920x1080]
+#EXTINF:-1, History Channel     
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4066.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Alpha    [1920x1080]
+#EXTINF:-1, Alpha     
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4074.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Mana Ellada    [1920x1080]
+#EXTINF:-1, Mana Ellada     
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4065.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, TV 4E    [1920x1080]
+#EXTINF:-1, TV 4E     
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4060.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Wzra Kids    [1920x1080]
+#EXTINF:-1, Wzra Kids     
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4061.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Star    [1920x1080]
+#EXTINF:-1, Star     
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4076.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Syros TV1    [1920x1080]
+#EXTINF:-1, Syros TV1     
 plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/4059.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, OTE Sport 5 HD    [1920x1080]
+#EXTINF:-1, OTE Sport 5 HD     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/11308.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, OTE Sport 6 HD    [1920x1080]
+#EXTINF:-1, OTE Sport 6 HD     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/11309.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, OTE Sport 7 HD    [1920x1080]
+#EXTINF:-1, OTE Sport 7 HD     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/11310.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, OTE Sport 1 HD    [1920x1080]
+#EXTINF:-1, OTE Sport 1 HD     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/11304.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, OTE Sport 2 HD    [1920x1080]
+#EXTINF:-1, OTE Sport 2 HD     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/11305.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, OTE Sport 3 HD    [1920x1080]
+#EXTINF:-1, OTE Sport 3 HD     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/11306.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, OTE Sport 4 HD    [1920x1080]
+#EXTINF:-1, OTE Sport 4 HD     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/11307.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, OTE Sport 8 HD    [1920x1080]
+#EXTINF:-1, OTE Sport 8 HD     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/11311.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, RIK    [432x240]
+#EXTINF:-1, RIK        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3729.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Alpha (+10)    [720x576]
+#EXTINF:-1, Alpha    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4546.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Alpha Sat    [720x480]
+#EXTINF:-1, Alpha Sat        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4496.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Star TV Live    [720x576]
+#EXTINF:-1, Star TV Live       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4595.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT1    [720x576]
+#EXTINF:-1, ERT1       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2318.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT2  CY    [720x576]
+#EXTINF:-1, ERT2  CY       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4537.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT3  CY    [720x576]
+#EXTINF:-1, ERT3  CY       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4538.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT1 (+7)    [720x576]
+#EXTINF:-1, ERT1      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4534.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT3    [720x576]
+#EXTINF:-1, ERT3       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2319.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT1  CY    [720x576]
+#EXTINF:-1, ERT1  CY       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4536.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT WORLD    [1280x720]
+#EXTINF:-1, ERT WORLD      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4494.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT1 (+10)    [720x576]
+#EXTINF:-1, ERT1 (+10)       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4535.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT HD    [1280x720]
+#EXTINF:-1, ERT HD      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4539.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ANT1 CY    [704x544]
+#EXTINF:-1, ANT1 CY   
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4484.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Alpha CY    [768x432]
+#EXTINF:-1, Alpha CY       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4543.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, MegaOne    [768x432]
+#EXTINF:-1, MegaOne       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3722.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT2    [720x576]
+#EXTINF:-1, ERT2       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2317.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ANT1    [1280x720]
+#EXTINF:-1, ANT1      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2326.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, RIK Sat    [480x368]
+#EXTINF:-1, RIK Sat        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3728.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, MEGA COSMOS    [720x480]
+#EXTINF:-1, MEGA COSMOS        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4495.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Alpha    [640x368]
+#EXTINF:-1, Alpha        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2327.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Ant1 HD    [720x576]
+#EXTINF:-1, Ant1 HD       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3731.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Alpha (+7)    [720x576]
+#EXTINF:-1, Alpha        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4545.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Alpha Music    [1920x1080]
+#EXTINF:-1, Alpha Music     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4474.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Mega    [720x576]
+#EXTINF:-1, Mega       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2309.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Zougl@ Tv    [640x368]
+#EXTINF:-1, Zougl@ Tv        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2329.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, MEGA (+7)    [720x576]
+#EXTINF:-1, MEGA     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4541.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, MEGA (+10)    [720x576]
+#EXTINF:-1, MEGA      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4542.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Skai    [720x576]
+#EXTINF:-1, Skai       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2303.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, SKAI (+10)    [720x576]
+#EXTINF:-1, SKAI      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4540.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, STAR HD    [720x576]
+#EXTINF:-1, STAR HD       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4470.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Star TV (+10)    [720x576]
+#EXTINF:-1, Star TV     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4472.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Star TV (+7)    [720x576]
+#EXTINF:-1, Star TV   
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4471.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Epsilon TV Cy    [1024x576]
+#EXTINF:-1, Epsilon TV Cy        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2322.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Reload Bizz    [864x480]
+#EXTINF:-1, Reload Bizz        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4544.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Action 24    [544x304]
+#EXTINF:-1, Action 24    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3727.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, SPICY Greek    [640x368]
+#EXTINF:-1, SPICY Greek        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4551.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, NEA TV    [1024x576]
+#EXTINF:-1, NEA TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4477.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, SPICY TV 2    [640x272]
+#EXTINF:-1, SPICY TV 2        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4549.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Ipiros Tv 1    [1920x1080]
+#EXTINF:-1, Ipiros Tv 1     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2307.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, NetTV Toronto    [864x480]
+#EXTINF:-1, NetTV Toronto        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3732.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Lampsi TV    [768x432]
+#EXTINF:-1, Lampsi TV       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4521.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Discovery Channel    [864x480]
+#EXTINF:-1, Discovery Channel        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/1645.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, SPICY bizz    [640x368]
+#EXTINF:-1, SPICY bizz        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4550.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Nickelodeon    [720x576]
+#EXTINF:-1, Nickelodeon       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3725.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Thing Green    [640x352]
+#EXTINF:-1, Thing Green        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4523.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, EPSILON TV (+7)    [720x576]
+#EXTINF:-1, EPSILON TV     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4567.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Animal Planet    [960x544]
+#EXTINF:-1, Animal Planet        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/6284.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, CARTOONS    [640x352]
+#EXTINF:-1, CARTOONS        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4566.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Horse Races    [1920x1080]
+#EXTINF:-1, Horse Races     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3730.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Magic TV    [1920x1088]
+#EXTINF:-1, Magic TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4492.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, CRETA TV    [480x368]
+#EXTINF:-1, CRETA TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4478.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, KPHTI TV    [864x480]
+#EXTINF:-1, KPHTI TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2312.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Start TV    [512x288]
+#EXTINF:-1, Start TV   
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2313.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, West Channel    [304x240]
+#EXTINF:-1, West Channel    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3738.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, BlueSky    [720x416]
+#EXTINF:-1, BlueSky 
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/1642.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Art    [720x576]
+#EXTINF:-1, Art       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2324.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, RIK 1    [1920x1080]
+#EXTINF:-1, RIK 1     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3736.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, MESSINIA TV    [640x368]
+#EXTINF:-1, MESSINIA TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2308.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, TV1 Siros    [720x576]
+#EXTINF:-1, TV1 Siros       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2959.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Tv Filopoli    [640x368]
+#EXTINF:-1, Tv Filopoli        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4490.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, New Tv    [1920x1080]
+#EXTINF:-1, New Tv     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2320.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Corfu Channel    [432x240]
+#EXTINF:-1, Corfu Channel        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4497.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Bakalo Tv    [960x544]
+#EXTINF:-1, Bakalo Tv        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3737.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, BEST TV    [1280x720]
+#EXTINF:-1, BEST TV      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4486.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, SPICY TV CINEMANIA    [640x272]
+#EXTINF:-1, SPICY TV CINEMANIA        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4570.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, SAMIAKI    [320x240]
+#EXTINF:-1, SAMIAKI    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2305.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, AB Channel    [720x576]
+#EXTINF:-1, AB Channel       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3726.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Kids TV    [640x480]
+#EXTINF:-1, Kids TV   
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4569.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, XALASTRA TV    [640x368]
+#EXTINF:-1, XALASTRA TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4553.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Makedonia Gr    [720x576]
+#EXTINF:-1, Makedonia Gr       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3723.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, SPICY TV    [864x480]
+#EXTINF:-1, SPICY TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4548.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Reload    [640x368]
+#EXTINF:-1, Reload        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4552.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Axelwos TV    [720x576]
+#EXTINF:-1, Axelwos TV       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2323.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, EPSILON TV (+10)    [720x576]
+#EXTINF:-1, EPSILON TV      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4568.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Four Wheels TV    [1280x720]
+#EXTINF:-1, Four Wheels TV      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2301.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Tinos TV    [864x480]
+#EXTINF:-1, Tinos TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4522.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Volcano TV santorini    [1280x720]
+#EXTINF:-1, Volcano TV santorini      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4562.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Spir Tv    [512x288]
+#EXTINF:-1, Spir Tv    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4485.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Play Tv    [864x480]
+#EXTINF:-1, Play Tv        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4469.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,VIP:ITA: Frisbee    [720x576]
+#EXTINF:-1,VIP:ITA: Frisbee       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/978.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, TV RYTHMOS 94.3    [320x240]
+#EXTINF:-1, TV RYTHMOS 94.3    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4489.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Fox Tv    [464x368]
+#EXTINF:-1, Fox Tv  
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4483.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, KANALI 6    [320x240]
+#EXTINF:-1, KANALI 6   
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4473.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, IONIAN TV    [1280x720]
+#EXTINF:-1, IONIAN TV      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4493.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, HIGH TV    [720x576]
+#EXTINF:-1, HIGH TV       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4547.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, HellasTV    [864x480]
+#EXTINF:-1, HellasTV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4491.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Montreal Greek TV    [720x480]
+#EXTINF:-1, Montreal Greek TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4475.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, FarosOnAir    [864x480]
+#EXTINF:-1, FarosOnAir        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4565.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, BHMA    [432x240]
+#EXTINF:-1, BHMA        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4482.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Cannali Musiki    [864x480]
+#EXTINF:-1, Cannali Musiki        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3733.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, MAD GR    [608x480]
+#EXTINF:-1, MAD GR   
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3724.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, DNA TV    [720x416]
+#EXTINF:-1, DNA TV    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4571.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Ellinikos Fm TV    [960x544]
+#EXTINF:-1, Ellinikos Fm TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2321.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, New generation TV    [640x368]
+#EXTINF:-1, New generation TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4555.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, HEART BEAT    [640x368]
+#EXTINF:-1, HEART BEAT        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4554.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Tile Musiki    [1920x1080]
+#EXTINF:-1, Tile Musiki     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4524.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, SuperStar RTV    [512x288]
+#EXTINF:-1, SuperStar RTV   
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4559.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, JayZeeHD    [1920x1080]
+#EXTINF:-1, JayZeeHD     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2325.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, SBC    [720x576]
+#EXTINF:-1, SBC       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2304.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, EXTRA    [720x576]
+#EXTINF:-1, EXTRA       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2314.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, TRT Greek    [656x496]
+#EXTINF:-1, TRT Greek    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2310.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, foxtv    [464x368]
+#EXTINF:-1, foxtv   
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4556.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, DIKTYO    [1920x1080]
+#EXTINF:-1, DIKTYO     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2298.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Astra TV    [640x368]
+#EXTINF:-1, Astra TV        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4488.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Smile    [720x576]
+#EXTINF:-1, Smile       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3721.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, VOULI    [640x368]
+#EXTINF:-1, VOULI        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2297.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, TV100    [640x480]
+#EXTINF:-1, TV100    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/1648.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, CineFil    [1280x720]
+#EXTINF:-1, CineFil      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4557.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, OMEGA    [544x304]
+#EXTINF:-1, OMEGA    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2306.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, TILESPORT    [720x576]
+#EXTINF:-1, TILESPORT       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2299.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Sigma    [720x576]
+#EXTINF:-1, Sigma       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/1646.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Adams Beach Hotel CY    [1920x1080]
+#EXTINF:-1, Adams Beach Hotel CY     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3735.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Euronews Gr    [320x192]
+#EXTINF:-1, Euronews Gr   
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3734.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ATTICA    [720x576]
+#EXTINF:-1, ATTICA       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2328.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Epiloges Tv    [1920x1080]
+#EXTINF:-1, Epiloges Tv     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/3740.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, 4E Star    [640x480]
+#EXTINF:-1, 4E Star  
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/1647.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, LYCHNOS    [720x576]
+#EXTINF:-1, LYCHNOS       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4561.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Agio Nicolaos    [1280x720]
+#EXTINF:-1, Agio Nicolaos      
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4479.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Macedonia TV HD    [1920x1088]
+#EXTINF:-1, Macedonia TV HD        
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4594.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Cinemania    [1920x1080]
+#EXTINF:-1, Cinemania     
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/4592.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Eurosport 1    [704x576]
+#EXTINF:-1, Eurosport 1    
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2316.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Eurosport 2    [720x576]
+#EXTINF:-1, Eurosport 2       
 plugin://plugin.video.f4mTester/?url=http://51.15.161.153:1557/live/I6admlpYNk/OQOyLSy6qx/2315.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Alpha    [1280x720]
+#EXTINF:-1, Alpha      
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4074.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Ant1 Cy    [1536x864]
+#EXTINF:-1, Ant1 Cy    
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4078.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ANT1    [1920x1080]
+#EXTINF:-1, ANT1     
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4075.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, ERT 1    [720x576]
+#EXTINF:-1, ERT 1       
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4072.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, TV 4E    [960x544]
+#EXTINF:-1, TV 4E        
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4060.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, National Geographic    [1280x720]
+#EXTINF:-1, National Geographic      
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4069.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Skai Greece    [720x576]
+#EXTINF:-1, Skai Greece       
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4068.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Zougla TV    [640x368]
+#EXTINF:-1, Zougla TV        
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4062.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, KPHTH TV    [864x480]
+#EXTINF:-1, KPHTH TV        
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4064.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Euronews    [1920x1080]
+#EXTINF:-1, Euronews     
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4070.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Star    [720x560]
+#EXTINF:-1, Star    
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4076.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Zougla    [720x576]
+#EXTINF:-1, Zougla       
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4067.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Syros TV1    [720x576]
+#EXTINF:-1, Syros TV1       
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4059.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, History Channel    [1920x1080]
+#EXTINF:-1, History Channel     
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4066.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Mana Ellada    [1920x1080]
+#EXTINF:-1, Mana Ellada     
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4065.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Mega    [1920x1080]
+#EXTINF:-1, Mega     
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4077.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, MAD TV    [1920x1080]
+#EXTINF:-1, MAD TV     
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4071.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Sbc    [1920x1080]
+#EXTINF:-1, Sbc     
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4073.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Wzra Kids    [1920x1080]
+#EXTINF:-1, Wzra Kids     
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4061.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Nea    [1920x1080]
+#EXTINF:-1, Nea     
 plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/4063.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Alpha    [720x576]
+#EXTINF:-1, Alpha       
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/2371.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Eurosport 1    [1280x720]
+#EXTINF:-1, Eurosport 1      
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/5260.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, KONTRA    [720x400]
+#EXTINF:-1, KONTRA    
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/2366.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, KRITI TV    [864x480]
+#EXTINF:-1, KRITI TV        
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/5262.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Makedonia    [720x576]
+#EXTINF:-1, Makedonia       
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/2363.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Mega    [720x576]
+#EXTINF:-1, Mega       
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/2362.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, MESSINIA TV    [864x480]
+#EXTINF:-1, MESSINIA TV        
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/5257.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, NOVA    [720x576]
+#EXTINF:-1, NOVA       
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/5261.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Omega TV    [864x480]
+#EXTINF:-1, Omega TV        
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/5258.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Sigma Cy    [1536x864]
+#EXTINF:-1, Sigma Cy    
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/2361.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, SAMIAKI    [320x240]
+#EXTINF:-1, SAMIAKI    
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/5255.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, SIGMA TV    [1536x864]
+#EXTINF:-1, SIGMA TV    
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/2367.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1, Vouli    [640x368]
+#EXTINF:-1, Vouli        
 plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/sama/sama/3207.ts&amp;streamtype=TSDOWNLOADER

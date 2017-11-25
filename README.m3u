@@ -1,252 +1,222 @@
-# PremiumGR_Iptv_nK
 
 #EXTM3U
-
-#EXTINF:-1,tvg-ID="OTESport1.gr" tvg-name="GR | COSMOTE SPORT 1" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 1
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9418.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport2.gr" tvg-name="GR | COSMOTE SPORT 2" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 2
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9417.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport3.gr" tvg-name="GR | COSMOTE SPORT 3" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 3
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9416.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport4.gr" tvg-name="GR | COSMOTE SPORT 4" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 4
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9415.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport5.gr" tvg-name="GR | COSMOTE SPORT 5" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 5
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9414.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport6.gr" tvg-name="GR | COSMOTE SPORT 6" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 6
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9413.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport7.gr" tvg-name="GR | COSMOTE SPORT 7" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 7
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9412.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport8.gr" tvg-name="GR | COSMOTE SPORT 8" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 8
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9411.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport1.gr" tvg-name="GR | COSMOTE SPORT 1" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 1
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10794.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport2.gr" tvg-name="GR | COSMOTE SPORT 2" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 2
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10793.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport3.gr" tvg-name="GR | COSMOTE SPORT 3" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 3
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10792.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport4.gr" tvg-name="GR | COSMOTE SPORT 4" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 4
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10791.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport5.gr" tvg-name="GR | COSMOTE SPORT 5" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 5
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10790.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport6.gr" tvg-name="GR | COSMOTE SPORT 6" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 6
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10789.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport7.gr" tvg-name="GR | COSMOTE SPORT 7" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 7
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10788.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport8.gr" tvg-name="GR | COSMOTE SPORT 8" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE SPORT 8
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10787.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="Eurosport.int" tvg-name="GR | EUROSPORT 1" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/de/Eurosport1de.png" group-title="GREECE",GR | EUROSPORT 1
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9410.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,TileSport TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9409.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Fishing Ellinika
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9314.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Hunting Ellinika
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9313.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTECinema1.gr" tvg-name="GR | COSMOTE CINEMA 1" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE CINEMA 1
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/12967.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTECinema2.gr" tvg-name="GR | COSMOTE CINEMA 2" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE CINEMA 2
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/12966.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTESport1.gr" tvg-name="GR | COSMOTE CINEMA 3" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE CINEMA 3
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/12965.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTECinema4.gr" tvg-name="GR | COSMOTE CINEMA 4" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/cosmo.png" group-title="GREECE",GR | COSMOTE CINEMA 4
-plugin://plugin.video.f4mTester/?url=http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/12964.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | EPIC MOVIES 1" tvg-logo="plugin://plugin.video.f4mTester/?url=http://nextrack.ats&amp;streamtype=TSDOWNLOADERpace.com/gr/movies.png" group-title="GREECE",GR | EPIC MOVIES 1
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9351.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | EPIC MOVIES 2" tvg-logo="plugin://plugin.video.f4mTester/?url=http://nextrack.ats&amp;streamtype=TSDOWNLOADERpace.com/gr/movies.png" group-title="GREECE",GR | EPIC MOVIES 2
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9350.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | EPIC MOVIES 3" tvg-logo="plugin://plugin.video.f4mTester/?url=http://nextrack.ats&amp;streamtype=TSDOWNLOADERpace.com/gr/movies.png" group-title="GREECE",GR | EPIC MOVIES 3
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9349.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | EPIC MOVIES 4" tvg-logo="plugin://plugin.video.f4mTester/?url=http://nextrack.ats&amp;streamtype=TSDOWNLOADERpace.com/gr/movies.png" group-title="GREECE",GR | EPIC MOVIES 4
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9348.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | EPIC MOVIES 5" tvg-logo="plugin://plugin.video.f4mTester/?url=http://nextrack.ats&amp;streamtype=TSDOWNLOADERpace.com/gr/movies.png" group-title="GREECE",GR | EPIC MOVIES 5
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9347.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | EPIC MOVIES 6" tvg-logo="plugin://plugin.video.f4mTester/?url=http://nextrack.ats&amp;streamtype=TSDOWNLOADERpace.com/gr/movies.png" group-title="GREECE",GR | EPIC MOVIES 6
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9346.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | CINEMA GREEK 1" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/greek_movies.png" group-title="GREECE",GR | CINEMA GREEK 1
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9353.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | CINEMA GREEK 2" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/greek_movies.png" group-title="GREECE",GR | CINEMA GREEK 2
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9352.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | CINEMA GREEK 1" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/greek_movies.png" group-title="GREECE",GR | CINEMA GREEK 1
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9353.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | CINEMA GREEK 2" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/greek_movies.png" group-title="GREECE",GR | CINEMA GREEK 2
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9352.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | GREEK OLD MOVIES 1" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/greek_movies.png" group-title="GREECE",GR | GREEK OLD MOVIES 1
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9341.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | GREEK OLD MOVIES 2" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/greek_movies.png" group-title="GREECE",GR | GREEK OLD MOVIES 2
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9340.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | GREEK OLD MOVIES 3" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/greek_movies.png" group-title="GREECE",GR | GREEK OLD MOVIES 3
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9339.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Greek Series 1
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9338.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Greek Series 2
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9337.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | GREEK CINEMA 80s 1" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/greek_movies.png" group-title="GREECE",GR | GREEK CINEMA 80s 1
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9345.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | GREEK CINEMA 80s 2" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/greek_movies.png" group-title="GREECE",GR | GREEK CINEMA 80s 2
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9344.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | GREEK CINEMA 80s 3" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/greek_movies.png" group-title="GREECE",GR | GREEK CINEMA 80s 3
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9343.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="animalplanet.gr" tvg-name="GR | ANIMAL PLANET" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/de/animalplanet.png" group-title="GREECE",GR | ANIMAL PLANET
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9321.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="animalplanet.gr" tvg-name="GR | ANIMAL PLANET" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/de/animalplanet.png" group-title="GREECE",GR | ANIMAL PLANET
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9320.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="natgeo.gr" tvg-name="GR | NAT GEO" tvg-logo="plugin://plugin.video.f4mTester/?url=http://nextrack.ats&amp;streamtype=TSDOWNLOADERpace.com/de/NatGeoHD.png" group-title="GREECE",GR | NAT GEO
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9324.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="travel.gr" tvg-name="GR | TRAVEL CHANNEL" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/travelchannel.png" group-title="GREECE",GR | TRAVEL CHANNEL
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9316.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="ViasatHistory.gr" tvg-name="GR | VIASAT HISTORY" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/viasat.png" group-title="GREECE",GR | VIASAT HISTORY
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9317.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="NatGeoWild.gr" tvg-name="GR | NAT GEO WILD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/de/NatGeoWildHD.png" group-title="GREECE",GR | NAT GEO WILD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9323.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="NatGeoWild.gr" tvg-name="GR | NAT GEO WILD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/de/NatGeoWildHD.png" group-title="GREECE",GR | NAT GEO WILD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9322.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="discovery.gr" tvg-name="GR | DISCOVERY CHANNEL" tvg-logo="plugin://plugin.video.f4mTester/?url=http://nextrack.ats&amp;streamtype=TSDOWNLOADERpace.com/de/DiscoveryHD.png" group-title="GREECE",GR | DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9330.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="DiscoveryID.gr" tvg-name="GR | DISCOVERY ID" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/discid.png" group-title="GREECE",GR | DISCOVERY ID
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9328.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Discovery IDX
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9327.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="DiscoveryScience.gr" tvg-name="GR | DISCOVERY SCIENCE" tvg-logo="plugin://plugin.video.f4mTester/?url=http://nextrack.ats&amp;streamtype=TSDOWNLOADERpace.com/de/discoveryscience.png" group-title="GREECE",GR | DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9326.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | DISCOVERY SHOWCASE" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/discoveryhdshowcase.png" group-title="GREECE",GR | DISCOVERY SHOWCASE
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9329.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="TheHistoryChannel.gr" tvg-name="GR | HISTORY" tvg-logo="plugin://plugin.video.f4mTester/?url=http://nextrack.ats&amp;streamtype=TSDOWNLOADERpace.com/de/HistoryHD.png" group-title="GREECE",GR | HISTORY
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9319.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="OTEHistory.gr" tvg-name="GR | COSMOTE HISTORY" tvg-logo="plugin://plugin.video.f4mTester/?url=http://www.typologies.gr/wp-content/uploads/2016/11/COSMOTE-HISTORY-logo-1024x442.png" group-title="GREECE",GR | COSMOTE HISTORY
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9318.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Sundance HD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9336.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="TLC.gr" tvg-name="GR | TLC" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/tlc.png" group-title="GREECE",GR | TLC
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9315.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="Eentertainment.gr" tvg-name="GR | E! ENTERTAINMENT" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/de/EentHD.png" group-title="GREECE",GR | E! ENTERTAINMENT
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9331.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:EuroNews
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9306.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Toronto TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9358.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="Nickelodeon.gr" tvg-name="GR | NICKELODEON" tvg-logo="plugin://plugin.video.f4mTester/?url=http://nextrack.ats&amp;streamtype=TSDOWNLOADERpace.com/gr/nickelodeon.png" group-title="GREECE",GR | NICKELODEON
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9312.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="DisneyChannel.gr" tvg-name="GR | DISNEY CHANNEL" tvg-logo="plugin://plugin.video.f4mTester/?url=http://nextrack.ats&amp;streamtype=TSDOWNLOADERpace.com/de/DisneyChannel.png" group-title="GREECE",GR | DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9311.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="DisneyJunior.gr" tvg-name="GR | DISNEY JUNIOR" tvg-logo="plugin://plugin.video.f4mTester/?url=http://nextrack.ats&amp;streamtype=TSDOWNLOADERpace.com/de/DisneyJunior.png" group-title="GREECE",GR | DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9310.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="DisneyXD.gr" tvg-name="GR | DISNEY XD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://nextrack.ats&amp;streamtype=TSDOWNLOADERpace.com/de/DisneyXD.png" group-title="GREECE",GR | DISNEY XD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9309.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Baby TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9307.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="SmileTV.gr" tvg-name="GR | SMILE" tvg-logo="plugin://plugin.video.f4mTester/?url=http://nextrack.ats&amp;streamtype=TSDOWNLOADERpace.com/gr/smile.png" group-title="GREECE",GR | SMILE
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9359.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Zouzounia
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9308.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Kids 1
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9305.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Kids 2
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9304.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Kids 3
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9303.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Kids 4
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9302.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Kids 5
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9301.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Kids 6
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9300.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Kids 7
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9299.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Kids 9
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9298.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Kids 10
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9297.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:DS
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9378.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:Greek Mix
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9342.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="Skai.gr" tvg-name="GR | SKAI" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/skai.png" group-title="GREECE",GR | SKAI
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9360.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="Skai.gr" tvg-name="GR | SKAI" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/skai.png" group-title="GREECE",GR | SKAI
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9361.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="star.gr" tvg-name="GR | STAR" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/star-new.png" group-title="GREECE",GR | STAR
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9392.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="star.gr" tvg-name="GR | STAR" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/star-new.png" group-title="GREECE",GR | STAR
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9393.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="ANT1.gr" tvg-name="GR | ANT1" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/ant1.png" group-title="GREECE",GR | ANT1
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9383.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="alpha.gr" tvg-name="GR | ALPHA" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/alpha.png" group-title="GREECE",GR | ALPHA
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9385.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="EPT-HD.gr" tvg-name="GR | ERT HD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://nextrack.ats&amp;streamtype=TSDOWNLOADERpace.com/gr/erthd.png" group-title="GREECE",GR | ERT HD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9408.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="EPT1.gr" tvg-name="GR | ERT 1" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/ert1.png" group-title="GREECE",GR | ERT 1
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9407.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="EPT2.gr" tvg-name="GR | ERT 2" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/ert2.png" group-title="GREECE",GR | ERT 2
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9406.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="EPT3.gr" tvg-name="GR | ERT 3" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/ert3.png" group-title="GREECE",GR | ERT 3
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9405.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="ETV.gr" tvg-name="GR | EPSILON" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/epsilon.png" group-title="GREECE",GR | EPSILON
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9402.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="ETV.gr" tvg-name="GR | EPSILON" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/epsilon.png" group-title="GREECE",GR | EPSILON
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9403.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="Macedonia.gr" tvg-name="GR | MACEDONIA TV" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/maktv.png" group-title="GREECE",GR | MACEDONIA TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9400.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="Macedonia.gr" tvg-name="GR | MACEDONIA TV" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/maktv.png" group-title="GREECE",GR | MACEDONIA TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9401.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="mega.gr" tvg-name="GR | MEGA" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/mega.png" group-title="GREECE",GR | MEGA
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9399.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,GR:ART Channel
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9382.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,GR:4E Star
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9388.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | AB" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/ABChannel.png" group-title="GREECE",GR | AB
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9389.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9388.ts
+#EXTINF:-1,GR:AB Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9389.ts
 #EXTINF:-1,GR:Acheloos TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9387.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9387.ts
+#EXTINF:-1,GR:ACTION 24
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9386.ts
 #EXTINF:-1,GR:Alpha Cyprus
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9384.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9384.ts
+#EXTINF:-1,GR:Alpha HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9385.ts
+#EXTINF:-1,GR:Animal Planet
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9320.ts
+#EXTINF:-1,GR:Animal Planet HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9321.ts
+#EXTINF:-1,GR:ANT1 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9383.ts
+#EXTINF:-1,GR:ART Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9382.ts
+#EXTINF:-1,GR:Baby TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9307.ts
+#EXTINF:-1,GR:Best Movies 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9351.ts
+#EXTINF:-1,GR:Best Movies 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9350.ts
+#EXTINF:-1,GR:Best Movies 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9349.ts
+#EXTINF:-1,GR:Best Movies 4
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9348.ts
+#EXTINF:-1,GR:Best Movies 5
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9347.ts
+#EXTINF:-1,GR:Best Movies 6
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9346.ts
 #EXTINF:-1,GR:Capital Cyprus
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9381.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9381.ts
 #EXTINF:-1,GR:CHANNEL 9
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9380.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9380.ts
+#EXTINF:-1,GR:Cinemaeek 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9353.ts
+#EXTINF:-1,GR:Cinemaeek 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9352.ts
+#EXTINF:-1,GR:Cosmote Sport 1 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9418.ts
+#EXTINF:-1,GR:Cosmote Sport 2 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9417.ts
+#EXTINF:-1,GR:Cosmote Sport 3 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9416.ts
+#EXTINF:-1,GR:Cosmote Sport 4 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9415.ts
+#EXTINF:-1,GR:Cosmote Sport 5 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9414.ts
+#EXTINF:-1,GR:Cosmote Sport 6 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9413.ts
+#EXTINF:-1,GR:Cosmote Sport 7 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9412.ts
+#EXTINF:-1,GR:Cosmote Sport 8 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9411.ts
 #EXTINF:-1,GR:Creta Web TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9379.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9379.ts
+#EXTINF:-1,GR:Discovery Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9330.ts
+#EXTINF:-1,GR:Discovery ID
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9328.ts
+#EXTINF:-1,GR:Discovery IDX
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9327.ts
+#EXTINF:-1,GR:Discovery Science
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9326.ts
+#EXTINF:-1,GR:Discovery ShowCase HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9329.ts
+#EXTINF:-1,GR:Disney Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9311.ts
+#EXTINF:-1,GR:Disney Junior
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9310.ts
+#EXTINF:-1,GR:Disney XD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9309.ts
+#EXTINF:-1,GR:DS
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9378.ts
+#EXTINF:-1,GR:E!
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9331.ts
 #EXTINF:-1,GR:Epirus TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9332.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9332.ts
+#EXTINF:-1,GR:EPSILON
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9402.ts
+#EXTINF:-1,GR:Epsilon HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9403.ts
+#EXTINF:-1,GR:ERT 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9407.ts
+#EXTINF:-1,GR:ERT 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9406.ts
+#EXTINF:-1,GR:ERT 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9405.ts
+#EXTINF:-1,GR:ERT HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9408.ts
+#EXTINF:-1,GR:EuroNews
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9306.ts
+#EXTINF:-1,GR:EuroSport 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9410.ts
 #EXTINF:-1,GR:EXTRA
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9377.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9377.ts
+#EXTINF:-1,GR:Fishing Ellinika
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9314.ts
+#EXTINF:-1,GR:Greek Cinema 80s 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9345.ts
+#EXTINF:-1,GR:Greek Cinema 80s 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9344.ts
+#EXTINF:-1,GR:Greek Cinema 80s 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9343.ts
+#EXTINF:-1,GR:Greek Mix
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9342.ts
+#EXTINF:-1,GR:Greek Old Movies 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9341.ts
+#EXTINF:-1,GR:Greek Old Movies 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9340.ts
+#EXTINF:-1,GR:Greek Old Movies 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9339.ts
+#EXTINF:-1,GR:Greek Series 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9338.ts
+#EXTINF:-1,GR:Greek Series 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9337.ts
+#EXTINF:-1,GR:History HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9319.ts
+#EXTINF:-1,GR:Hunting Ellinika
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9313.ts
 #EXTINF:-1,GR:Ioannina TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9375.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="Kontra.gr" tvg-name="GR | KONTRA" tvg-logo="plugin://plugin.video.f4mTester/?url=http://nextrack.ats&amp;streamtype=TSDOWNLOADERpace.com/gr/kontra.png" group-title="GREECE",GR | KONTRA
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9376.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9375.ts
+#EXTINF:-1,GR:Kids 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9305.ts
+#EXTINF:-1,GR:Kids 10
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9297.ts
+#EXTINF:-1,GR:Kids 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9304.ts
+#EXTINF:-1,GR:Kids 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9303.ts
+#EXTINF:-1,GR:Kids 4
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9302.ts
+#EXTINF:-1,GR:Kids 5
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9301.ts
+#EXTINF:-1,GR:Kids 6
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9300.ts
+#EXTINF:-1,GR:Kids 7
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9299.ts
+#EXTINF:-1,GR:Kids 9
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9298.ts
+#EXTINF:-1,GR:KONTRA TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9376.ts
 #EXTINF:-1,GR:Krhth Tv
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9374.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9374.ts
 #EXTINF:-1,GR:Kriti TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9373.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9373.ts
 #EXTINF:-1,GR:MAD
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9372.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9372.ts
 #EXTINF:-1,GR:MAD TV Cyprus
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9371.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9371.ts
+#EXTINF:-1,GR:MAKEDONIA TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9400.ts
+#EXTINF:-1,GR:Makedonia TV HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9401.ts
+#EXTINF:-1,GR:Mega
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9399.ts
 #EXTINF:-1,GR:MegaOne Cyprus
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9398.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9398.ts
 #EXTINF:-1,GR:MESSINIA TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9370.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,tvg-ID="" tvg-name="GR | NEA TV" tvg-logo="plugin://plugin.video.f4mTester/?url=http://epictv.de/gr/neatvkriti.png" group-title="GREECE",GR | NEA TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9397.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9370.ts
+#EXTINF:-1,GR:Nat Geo HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9324.ts
+#EXTINF:-1,GR:Nat Geo Wild
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9322.ts
+#EXTINF:-1,GR:Nat Geo Wild HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9323.ts
+#EXTINF:-1,GR:Nea TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9397.ts
 #EXTINF:-1,GR:Net TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9396.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9396.ts
+#EXTINF:-1,GR:Nickelodeon
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9312.ts
 #EXTINF:-1,GR:Nova
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9394.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9394.ts
 #EXTINF:-1,GR:Omega TV
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9395.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9395.ts
+#EXTINF:-1,GR:OTE History
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9318.ts
 #EXTINF:-1,GR:RIK SAT
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9369.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9369.ts
 #EXTINF:-1,GR:RISE
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9365.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9365.ts
 #EXTINF:-1,GR:Samiaki
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9364.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9364.ts
 #EXTINF:-1,GR:SBC
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9363.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9363.ts
 #EXTINF:-1,GR:Sigma
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9362.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ACTION 24
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9386.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9362.ts
+#EXTINF:-1,GR:SKAI
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9360.ts
+#EXTINF:-1,GR:Skai HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9361.ts
+#EXTINF:-1,GR:SMILE
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9359.ts
+#EXTINF:-1,GR:STAR
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9392.ts
+#EXTINF:-1,GR:Star HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9393.ts
+#EXTINF:-1,GR:Sundance HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9336.ts
+#EXTINF:-1,GR:TileSport TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9409.ts
+#EXTINF:-1,GR:TLC
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9315.ts
+#EXTINF:-1,GR:Toronto TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9358.ts
+#EXTINF:-1,GR:Travel Channel HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9316.ts
+#EXTINF:-1,GR:Viasat History
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9317.ts
 #EXTINF:-1,GR:Vouli
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9391.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9391.ts
 #EXTINF:-1,GR:Zougla
-plugin://plugin.video.f4mTester/?url=http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9390.ts&amp;streamtype=TSDOWNLOADER
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9390.ts
+#EXTINF:-1,GR:Zouzounia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9308.ts
